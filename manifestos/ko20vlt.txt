@@ -1,0 +1,203 @@
+﻿Zukunft made in Europe
+Mobiles Köln
+Der konsequente Ausbau der Fahrradinfrastruktur:
+Konsequenter Bau von Fahrradparkhäusern und Fahrradwegen. Mehr Personal für die Verwaltung, um bereits gesetzte Ziele zu erreichen und zu übertreffen.
+Best Practice
+Volts Ziel ist es, für Köln eine nachhaltige, soziale, zuverlässige und effiziente Mobilität zu gewährleisten. Durch den Fokus auf ÖPNV, Fahrrad und SharingMöglichkeiten schaffen wir eine ruhigere Stadt mit besserer Luft, mehr Platz zum Leben und mehr Sicherheit für Passant*innen, Scooter und Fahrradfahrer*innen. Der öffentliche Nahverkehr wird über und unterirdisch ausgebaut und schafft durch eine höhere Taktung sowie strikte Trennung
+vom restlichen Verkehrsfluss eine verlässliche Mobilitätslösung. Durch eine direkte Einbindung der SharingMöglichkeiten – auch von Drittanbieter*innen – an die KVB können Verkehrsmittel effizienter kombiniert werden. Durch offene Datenstrukturen und Förderung von zukunftsfähigen Technologien, wie dem autonomen Fahren, kann der Verkehrsfluss mit modernen Algorithmen gelenkt, beschleunigt und zukunftsfähig gemacht werden.
+Niederlande: Fahrradparkplatzpflicht am Arbeitsplatz; 16 InnenstadtFahrradparkhäuser
+Japan: vollautomatische unterirdische Fahrradparkhäuser am Bahngleis
+Die Modernisierung der SharingAngebote für Fahrräder, Lastenräder und EScooter: SharingAngebote, freischalten so schnell wie kontaktloses Zahlen. Schnell und einfach Schluss mit zugestellten Gehwegen durch ein Belohnungssystem für das Abstellen an Bus und Bahnstationen.
+Best Practice
+Gdansk: kostenloser Fahrradverleih mit Belohnungssystem bei ortsspezifischer Rückgabe
+Berlin: Integration von Drittanbieter*innen in ÖPNVApp
+Unsere Lösungsvorschläge
+Eine MobilityasaServiceStrategie für den ÖPNV: Car/BikeSharing, ÖPNV, EScooter, Lastenräder, egal ob von der KVB oder von Drittanbieter*innen. Alles kombiniert in einer App, mit einem Ticket.
+Best Practice
+London: stadtweite AppKooperation mit Drittanbieter*innen für ÖPNV und Sharing
+Helsinki: WochenendMietautos als Teil des städtischen Mobilitätsangebots
+Ein öffentlicher Nahverkehr nach Wiener Vorbild – günstig, nachhaltig und schnell: Priorisierung des ÖPNVs als städtisches Verkehrsmittel gepaart mit konsequentem Ausbau, dabei konstante bis sinkende Preise.
+Best Practice
+Wien: extrem hohe ÖPNV Taktung; verpflichtender NahverkehrAnschluss von Rand und Neubaugebieten; 365€Jahresticket
+Öffentliche Daten für öffentliche Gelder: Frei zugängliche Open Data für den öffentlichen Nahverkehr für bessere Verspätungsmeldungen und KIgesteuerte Routenplanung.
+Best Practice
+Helsinki: freie Verfügbarkeit von öffentlichen Daten und Codes unter: https://
+digitransit.fi/en/ : Verspätungen können live eingesehen werden
+Neue, intelligente Busrouten: Mit offenen Datenstrukturen ermöglichen wir den Einsatz von Künstlicher Intelligenz und machen den Verkehr günstiger und effizienter.
+Best Practice
+Boston: KIWettbewerb zur BusroutenBerechnung spart jetzt 5 Millionen Dollar jährlich
+Paris: Der Stadtkern wird autofrei, das Flussufer ist es schon – die Stadt wird grüner
+Eine Erhöhung der Qualitätsstandards der KVB: Steigerung der ÖPNVAttraktivität durch höhere Qualitätsstandards und eine transparente Kommunikation von Problemen und Fehlern.
+Best Practice
+Seoul: ÖPNVGPS Live Tracking, Darstellung von (Live)Anschlussmöglichkeiten; multinationale Ansagen am Gleis
+
+
+Die gestalterische und verkehrstechnische Neugestaltung des Neumarkts:
+Aufwertung des Neumarkts als Platz im Herzen von Köln: ruhigere und schönere
+Neugestaltung, Aufwertung durch regelmäßige Märkte und Veranstaltungen..
+Best Practice
+Strasbourg: 1990 sah der zentrale Place Kléber aus wie der Neumarkt jetzt:
+laut und leer. Ohne Autos ist er heute ein Begegnungs und Verweilort
+Ein faires Straßenbepreisungssystem: Kosten der Straßeninstandhaltung werden
+auf die Verursacher*innen umgelegt, was zu weniger Verkehr führt und bei der
+Finanzierung des ÖPNVAusbaus helfen kann. Durch die Entschleunigung des Ver kehrs erhöht sich die Sicherheit für alle Verkehrsteilnehmenden.
+Best Practice (Maut)
+London: 60.000 Autos weniger am Tag; einfaches VignettenSystem
+Stockholm: 76 Millionen Euro Nettogewinn pro Jahr; starker Rückhalt in der
+Bevölkerung nach Einführung
+Singapur: dynamisches Bepreisungssystem hat Staus fast völlig beendet –
+einzigartig in diesem Teil des Kontinents
+Mehr alternative Fortbewegungsmöglichkeiten: Autonomes Fahren, Rheinpen del, Wassertaxis oder zusätzliche Fahrrad/FußwegBrücken: Der ÖPNV muss sein
+Mobilitätsportfolio über Bus und Bahn hinaus um weitere Optionen ergänzen.
+Best Practice (fußgänger*innenfreundliche Stadtgestaltung)
+Amsterdam: keine Neuvergabe von Bewohner*innenparkausweisen bei
+Umzug
+Wien: Vorreiterrolle im ÖPNV: hohe Parkkosten in der Innenstadt und Be grenzung auf 2 Stunden
+Helsinki: 30km/h in der Innenstadt haben den Verkehr nicht negativ beein flusst, dafür gab es 2019 nicht einen Verkehrstoten
+Strasbourg: Ausbau von Park&Ride mit Arbeitgeber*innenunterstützung
+
+
+
+Lebenswertes Köln
+Neue verkehrsberuhigte Zonen: Severinstraße, Zülpicher Straße, Eigelstein etc.
+– es gibt viele Straßen in Köln, die keine verkehrsberuhigten Zonen sind, es aber werden sollten.
+Best Practice
+Volts Ziel ist es, aus Köln ein Millionenstadt ohne Hektik, Lärm und eintönige Häuserfassaden zu machen. Durch die Reduzierung von Autos in der Innenstadt werden Plätze für Menschen geschaffen. Durch regelmäßig stattfindende Veranstaltungen, wie Konzerte und Märkte, sollen Straßen und Plätze belebt werden. Durch konsequente Stadtbegrünung wird zusätzlich der Lärm der Stadt reduziert, die Luft sauberer und das Stadtbild schöner.
+Die Veedel sollen dabei durch fußläufig erreichbare, städtische Angebote aufgewertet werden.
+Barcelona: Zusammenfassung einzelner Quartiere zu „SuperBlocks”, einer Mischung aus autoarmen und autofreien Zonen zum Leben und Genießen. Der Verkehr wird größtenteils außen herum geleitet
+Die Aufwertung der Stadt durch Veranstaltungen und Märkte: Durch einen autofreien Neumarkt, sinnvolle Stadtmöblierung, Flächennutzungs und Zwischennutzungskonzepte, kulturellen Austausch und regelmäßige Veranstaltungen durch Partner*innen steigt die Lebensqualität aller.
+Eine zeitgemäße und (gender) gerechte Stadtplanung: Strukturierung der Stadt nach dem Motto „Kurze Wege”. Bekämpfung von „Angstzonen”, Umsetzen von Barrierefreiheit in allen öffentlichen Einrichtungen und neue WCs im öffentlichen Raum.
+Unsere Lösungsvorschläge
+Mehr städtisches Grün: Begrünung von bestehenden Flächen, wie Dächern und
+Straßen, durch Entsiegelung und Neubepflanzung – vorangetrieben durch die
+Stadt und gestärkte Bürger*inneninitiativen.
+Best Practice
+New York: 2,4 km Hochgarten, Dach, Fassadenbegrünung und bepflanzte
+Busse, in New York schon Alltag
+Weniger Lichtverschmutzung: Reduzierung von Lichtreklame, Verwendung von
+Bewegungsmeldern, neue Arten der Fassadenbeleuchtung.
+Best Practice
+Fulda: intelligente und bedarfsgerechte Stadtbeleuchtung sorgen für Stro meinsparungen, gute Sicht und einen klaren Sternenhimmel
+Ein verbesserter Lärmschutz: Gezielte Begrünung gegen Lärm, Reduzierung des
+Verkehrs in der Innenstadt und mehr Bürger*innenbeteiligung in geplanten Projekten.
+
+
+
+Nachhaltiges Köln
+Eine innovative und effiziente Energienutzung: Gebäudesanierung und Ausbau erneuerbarer Energien, insbesondere durch Rhein energie. Bau im sogenannten Passivhausstil und innovative Kampagnen, die informieren, Anreize schaffen und die Bürger*innen einbinden.
+Volts Ziel ist es, für eine konsequente Umsetzung der Klimaziele zu sorgen, um langfristig Klimaneutralität zu erreichen. Eine nachhaltigere Lebensweise in der Stadt soll z.B. durch eine Verbesserung des Angebots nachhaltiger Lebensmittel auf Märkten erleichtert werden. Die Stadt soll durch den Bezug nachhaltiger Lebensmittel für ihre Einrichtungen mit gutem Beispiel vorangehen und so gleichzeitig zukunftsorientierte Landwirtschaftsformen fördern.
+Alle Möglichkeiten der erneuerbaren Energiegewinnung innerhalb der Stadt sollen ausgeschöpft werden und Bürger*innen bessere Beratung zum Potenzial energieeffizienter Gebäudesanierung erhalten, von der Eigentümer*innen wie Mieter*innen finanziell profitieren können.
+Best Practice
+Bottrop: Zusammenarbeit mit Unternehmen und Bürger*innen;
+dreimal mehr Gebäudesanierungen als der Bundesdurchschnitt; CO2Halbierung in den letzten 10 Jahren
+Unsere Lösungsvorschläge
+Die konsequente Umsetzung der Kölner Klimaziele: Klimakrise ernst nehmen!
+Bestehende Klimaziele erreichen, transparent arbeiten und Kontrollinstanzen
+einrichten.
+Eine nachhaltige Lebensmittelproduktion sowie Versorgung: Förderung nachhal tiger Landwirtschaft durch Erhöhung des regional und bio Anteils bei Essen in
+städtischen Einrichtungen, Ausbau des Angebots nachhaltig produzierter Lebens mittel auf Wochenmärkten.
+Best Practice
+Toronto: direkte Zusammenarbeit mit dem Ernährungsrat
+
+
+
+Soziales Köln
+Ein langfristiger Übergang zu Kauf und Vermietung von Sozialwohnungen durch die GAG, anstatt diese nur zu fördern: Mittel bis langfristig sollte ein Mietkaufmodell eingeführt werden.
+Best Practice
+Volts Ziel ist es, aus Köln einen Ort für alle Bürger*innen zu machen, gleichermaßen gerecht und zugänglich für jede*n. Wir setzen uns daher für einen nachhaltigeren, sozialeren und dem Gemeinwohl orientierten Wohnungsmarkt in Köln ein, für die Förderung stationärer und ambulanter Pflege und dafür, die Kinderarmut durch chancengleiche Bildung und die Stärkung gesellschaftlicher Teilhabe aktiv zu bekämpfen. Wir wollen jede Form von Diskriminierung
+beseitigen. Unser Köln soll einen fairen, inklusiven Lebensraum für alle bieten, auch für zugezogene Kölner*innen aus der EU und für Menschen mit Fluchthintergrund: Diesen neuen Nachbar*innen sollen Ankunft und Einleben erleichtert und zusätzlich der Dialog gefördert werden, damit allseits Vorurteile und Ängste abgebaut werden.
+Wien: Stadt kauft Immobilien und vermietet diese zu
+erschwinglichen Preisen
+Förderung von modernen, energieeffizienten Hochbauprojekten sowie der Erschließung neuer Flächen: Dies soll nicht zu Lasten von Grünflächen erfolgen. Wir wollen vorhandene Gebäude aufstocken, überdachte Bebauung von Parkplätzen und ähnlichen Flächen und Baulücken schließen.
+Auflagen für Bauherr*innen soweit möglich lockern:
+Gleichzeitig soll die Stadt Köln auf das Land NRW einwirken, um eine Reform der Landesbauordnung in Richtung einfacherer und schnellerer Genehmigungsverfahren zu erreichen.
+Unsere Lösungsvorschläge
+Ein nachhaltigerer, sozialerer, gemeinwohlorientierter und erschwinglicher Wohnungsmarkt in Köln: Investitionen für die Veedel Chorweiler, Porz und Mühlheim.
+Die Einführung eines Mieterhöhungsstopps für 5 Jahre: Währenddessen konsequente Anpassung der Kosten der Unterkunft im Rahmen des Arbeitslosengeld II an den jeweiligen aktuellen Mietspiegel.
+Die Förderung von Mehrgenerationenhäusern.
+Best Practice
+Darmstadt ‘92, USA ‘72: „Wohnen für Hilfen” oder auch „House sharing” gibt besonders älteren Menschen die Möglichkeit, Wohnraum für Aufgaben im und ums Haus unterzuvermieten
+Eine Quote von 30% Sozialwohnungen bei Neubauten ab 10 Wohnungen zur Durchmischung der Veedel.
+Die Stärkung der ambulanten und stationären Pflege: Einrichtungen für Kinder, wie KiTas, verstärkt mit Einrichtungen für Ältere verbinden; dies kann für beide Generationen einen positiven Effekt haben, da sie sich gegenseitig helfen können und Verständnis für die jeweils andere Generation wecken können.
+Best Practice
+Moers: Kindergarten und Altenheim unter einem Dach/auf einem Gelände
+Gesonderte Parkrechte für Pflegedienstleister*innen in der Stadt Köln.
+Mehr Teilhabe für geflüchtete Menschen in Köln: Begegnungssituationen schaffen, um den Dialog zu fördern und Vorurteile abzubauen.
+Bündnis Sicherer Hafen mit der Stadt Köln vorantreiben.
+Ein erleichterter Zuzug von EUMitbürger*innen.
+Einführung eines EUWelcomeDesks:
+Best Practice
+Brüssel: Bereitstellung von Ansprechpersonen für alle Belange des Alltags für EUBürger*innen und deren Familien sowie Unternehmen
+
+
+
+Die aktive Bekämpfung von Kinderarmut und Stärkung der gesellschaftlichen Teilhabe: Alle öffentlich geförderten Sport und Kulturangebote kostenlos für Kinder und Jugendliche nutzbar machen. Kostenloser Nahverkehr für Schul, Berufsund Universitätsausbildung.
+Bestmögliche Betreuung für Kinder vor Eintritt in die Schule: Ausbau der Ki TaPlätze in Köln: für jedes Kind einen KitaPlatz. Suche nach geeigneten KitaPlätzen einfacher gestalten.
+Kinderbetreuung durch europäische Freiwillige verbessern: Erzieher*innen werden bei Engpässen durch Teilnehmer*innen eines Europäischen Freiwilligendienstes oder Bürger*innenstipendien/FSJ unterstützt.
+Verbesserung der Lernbedingungen für Schüler*innen und stärkere Unterstützung von Pädagogen*innen: Stärkere Integration von Ehrenamtlichen, insbesondere im Grundschulbereich.
+Best Practice
+Ratingen: Lernpat*innenKonzept: ein*e Ehrenamtler*in pro Kind, mind. ein Jahr und ein bis zwei mal pro Woche
+Sanierung und Neubau von Schul und KitaGebäuden: Volt fordert die fortlaufende Überprüfung durch die Gebäudewirtschaft Köln in Zusammenarbeit mit den Hausmeister*innen der Schulgebäude, welche Gebäude sinnvoll sanierungsfähig sind und wo ein Neubau mehr Nutzen bringt.
+Entlastungen der Aushilfslehrkräfte und ggf. fachfremd eingesetzten Pädagogen*innen: Datenbank einrichten, in welcher Unterrichtsmaterial und Anforderungen gesammelt, kommentiert und weiterentwickelt werden.
+Ausfälle von Unterrichtsstunden auffangen: Einführung einer integrierten Lehrkräftereserve.
+Gesunde Ernährung in der Schule als Standard etablieren: Projekt „SternKita” des Ernährungsrats fördern.
+Modernste digitale Ausstattung für alle Schulen: Alle allgemeinbildenden Schulen müssen zügig mit Endgeräten (Tablets, Laptops etc.) ausgestattet werden. Digitalisierung gehört in den Lehrplan.
+Best Practice
+EU Projekt „IT macht Schule“ & „DiKjuDigital Creative Lab”: Kurse für
+Kinder/Jugendliche: Robotik, Coding, Design Thinking, Internet anbieten
+Die konstruktive Arbeit an einem inklusiven Köln: Passende, kompetente Begleitung für Menschen mit Handicap. Einen stärkeren Fokus auf die Aus bzw. Weiterbildung von qualifizierten Schulbegleiter*innen und persönlichen Assistent*innen legen.
+Erhalt und Förderung eines kulturell vielfältigen Zusammenlebens.
+Der konsequente Kampf gegen Rechtspopulismus, Rechtsextremismus, Rassismus, Antisemitismus, Homophobie und Islamfeindlichkeit sowie gegen die Anfeindung aller Minderheiten: Förderung und Ausbau des NSDokumentationszentrums und ähnlicher Einrichtungen und Initiativen des Kampfs gegen Diskriminierung in Köln.
+Stärkung der VHS Köln: Dozent*innen stärken, um das Angebot aufrechtzuerhalten und auszubauen.
+Erhalt der Kneipen, Clubs, Veranstaltungshallen und Restaurants:
+Die Einrichtungen der Gastro und Veranstaltungskultur wurden insbesondere durch die CoronaPandemie teilweise existenzgefährdend getroffen. Volt fordert die Unterstützung existenzbedrohter Einrichtungen durch die Stadt Köln – über die Fördermaßnahmen von Land und Bund hinaus –, um ein lebhaftes Stadtleben zu erhalten.
+Der Ausbau der Drogenpolitik: Zusammenarbeit mit Streetworkern stärken und sichere Rückzugsorte für Betroffene schaffen.
+Best Practice
+Portugal: Reduzierung des Strafmaßes; allgemeine Aufklärung und Hilfe für Betroffene führten seit 2001 zu weniger Konsument*innen, Reduzierung des Schwarzmarkts und Erhöhung des Einstiegsalters
+
+
+
+Smart City
+Ausbau der digitalen Infrastruktur: Sicherstellung der Zukunftsfähigkeit des Standorts Köln durch die Einführung eines Chief Digital Officers (CDO).
+Best Practice
+Das Ziel für Köln ist ein Umbau der Stadt zur Smart City. Dazu fordern wir einen Digitalen Masterplan, welcher in der Verantwortung der neu zu schaffenden Position der*des Chief Digital Officers (CDO) umgesetzt wird. Der Ausbau von modernen Technologien wie 5G und LoRaWanNetzen muss sichergestellt werden, auch um Konzepte wie vernetzte Mobilitätsservices zu ermöglichen. Europäische Partnerschaften mit anderen Großstädten und die Nutzung von
+europäischen Standards sollen Eigenlösungen vorgezogen werden: So auch beim Ausbau der digitalen Verwaltung und einer durchgängigen Beteiligung aller Bürger*innen.
+Dabei muss der Datenschutz aller Bürger*innen garantiert werden. Nur ein konsequenter Datenschutz ermöglicht die erfolgreiche Bereitstellung von offenen Daten (Open Data), ohne die Privatsphäre Einzelner zu gefährden.
+Estland: gilt als Vorreiter der Digitalisierung und hat einen CDO auf höchster Verwaltungsebene, Hamburg hat 2018 bereits nachgezogen
+Stärkung der Verwaltung sowie Ausbau der Methodenkompetenz: Großprojekte, egal ob digital oder traditionell, verlangen eine Verwaltung, die diesen Aufgaben gewachsen ist. Durch Ausbau der Methodenkompetenz soll dies erreicht werden.
+Offene und digitale Plattformen bei gleichzeitigem strengem Datenschutz: Offene Daten ermöglichen die öffentliche Teilhabe an städtischen Datensätzen. Die jetzige Ausarbeitung der Stadt Köln begrüßen wir sehr, fordern aber eine verstärkte Ausweitung des Angebots.
+Unsere Lösungsvorschläge
+Entwicklung eines Digitalen Masterplans: Die Digitalisierungspläne bis 2030 der
+einzelnen Bereiche sollen hierin gebündelt und die Erreichung der Ziele jährlich
+kontrolliert werden. Der Digitale Masterplan unterliegt dem*der CDO.
+Ausbau der digitalen und an den Bedürfnissen der Kölner*innen orientierten
+Verwaltung: Ausweitung des digitalen Angebots der Stadt, sowie die Ermögli chung von papierfreien Behördengängen.
+Stärkung der Bürger*innenbeteiligung: Wiedereinführung des Bürger*innenhaus halts, also einem Etat in der Hand aller Kölnerinnen und Kölner, sowie den Einsatz
+von Bürger*innenräten.
+Best Practice
+British  Columbia,  Irland:  verschiedene  Gesetze,  wie  Wahlrecht  und
+KlimaRichtlinien, werden  durch eine zufällig gewählte „Citizens’ Assembly”
+beschlossen, um die Einflussnahme von Parteien zu reduzieren
+
+
+
+Wirtschaftlich starkes
+Köln
+Eine nachhaltige Kreislaufwirtschaft: Förderung von innovativen Ideen und die Schaffung von Anreizen, die die Nachhaltigkeit der Kölner Wirtschaft steigern, beispielsweise die Nutzung von Abwärme von Serverfarmen als Heizenergie für Wohnhäuser oder Hotels.
+Best Practice
+Volts Ziel für Köln ist eine lebenswerte Stadt gestärkt durch eine gut funktionierende Wirtschaft. Durch die Digitalisierung, die Globalisierung und die Notwendigkeit von Klimaschutz ist gerade in der Wirtschaft Vieles im Umbruch. Volt Köln sieht sich in der Rolle, die Rahmenbedingungen so zu gestalten, dass sich gute Ideen entwickeln, innovative Geschäftsmodelle entfalten können und gleichzeitig die richtigen Anreize für Nachhaltigkeit gesetzt werden. Un sere Ziele sind deshalb die Förderung von Gründerinnen und Gründern, Innovation und Vernetzung, Attraktivitätssteigerung für heimische und internationale Fachkräfte, der sinnvolle Einsatz von privatöffentlichen Kooperationen sowie die Förderung von nachhaltiger Wirtschaft und grünem Tourismus.
+Frankfurt: das StartUp Cloud&Heat benutzt die Abwärme von Serverfarmen zur Gebäudeheizung (in diesem Fall eines Hotels)
+Ein grünerer Tourismus: Förderung von nachweislich nachhaltig wirtschaftenden Hotels, Förderung des ÖPNV als erste Transportmethode für Tourist*innen, Landstrom für Flusskreuzfahrtschiffe.
+Unsere Lösungsvorschläge
+Die Förderung von Innovation und Vernetzung: Prüfung und Ausbau der beste henden Angebote: Startupregion.Koeln und digitalhubcologne, Förderung vom
+Austausch der Wirtschaft mit anderen Städten in Europa.
+Die Förderung von Gründerinnen und Gründern: Größere Unterstützung in der
+Anfangsphase, beispielsweise durch temporäre Bereitstellung von Büroflächen,
+Ausbau von Beratung sowie konsequente Mehrsprachigkeit von Beratungsangebo ten.
+Eine vermehrte Zuwanderung von Fachkräften: Schaffung eines WelcomeDesks
+nach Brüsseler Vorbild („Expat Welcome Desk”), der nicht Deutsch sprechenden
+Zugezogenen verlässlich Hilfe und Informationen bietet. Konsequente Mehrspra chigkeit von Angeboten. Abbau bürokratischer Hürden beim Zuzug.
+Eine  sinnvolle  privatöffentliche  Kooperation:  Manche  Dienste  sollten  im
+öffentlichen Raum angeboten werden, doch die Stadt kann sie nicht effektiv bereit stellen: Ein Beispiel sind öffentliche Toiletten in ganz Köln. Mit guten Verträgen und
+klaren Zielen werden wir hier für alle einen Gewinn schaff
+

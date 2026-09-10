@@ -1,0 +1,338 @@
+
+Mehr Transparenz
+
+Wir wollen durch mehr Transparenz der Kommunalpolitik die direkten
+politischen Auswirkungen für Bürger*innen offenlegen und somit
+Politik nahbarer machen:
+
+Jeder Bürger hat ein Recht auf Informationen, um sich im politischen
+Diskurs eine Meinung bilden zu können. Dazu gehören auch die
+Entscheidungen, welche die gewählten politischen Vertreter*innen
+treffen. Diese Informationen sind die Basis für die politische
+Willensbildung und damit auch wichtig zur Kontrolle politischer
+Vertreter*innen.
+
+Doch oftmals sind Entscheidungsgrundlagen und Einschränkungen
+nicht immer direkt ersichtlich. Daher müssen auch die Hintergründe
+verständlich kommuniziert werden.
+
+Populistische Parteien verkürzen komplizierte Sachverhalte auf
+monokausale Ursachen (ein einziger Sündenbock) ohne eigene
+Lösungen. Informierte Bürger*innen fallen nicht auf solche Populisten
+herein, sondern können sich selbst ein differenziertes Bild machen.
+
+Und wie erreichen wir das?
+
+Entscheidungen und Projekte, die keiner Vertraulichkeit unterliegen,
+müssen proaktiv und in einfach verständlicher Sprache kommuniziert
+werden. Dies sollte über altbewährte Kanäle geschehen (wie den
+Lebacher Anzeiger), aber vor allem über neue, leichter zugängliche,
+digitale Kanäle für Jüngere (Website, Social Media).
+
+Diese Informationen müssen aktuell und zeitlich nah dran an den
+Entscheidungen sein, um echten Mehrwert für Bürger*innen zu bieten,
+bevor diese es durch (mitunter verzerrte) Dorfgespräche erfahren.
+
+Zudem sollte es in diesem Kontext neue Formate (Podcast, Video, …)
+geben zum schnelleren Überblick und zur Erläuterung von
+Hintergründen bei komplexen Themen oder Projekten.
+
+Starke Demokratie
+Wir wollen durch Projekte zur demokratischen Teilhabe und durch
+Aufklärung falscher populistischer Narrative unserer Demokratie
+stärken.
+
+Die heutige Zeit ist leider geprägt durch das Erstarken
+nationalistischer und populistischer Parteien in Europa, die
+mehrheitlich demokratiefeindlich sind. Zusammen mit einer immer
+komplexer werdenden Welt, getrieben druch Technologie und
+Globalisierung, gibt es auch mehr politikverdrossene Bürger*innen, die
+sich tendenziell leichter durch demokratiefeindliche Kräfte
+instrumentalisieren lassen.
+
+Zum Schutz unserer Demokratie braucht es daher eine starke Basis
+demokratie-bejahender Bürger*innen. Diese Basis wird oftmals auf
+kommunaler Ebene gelegt und kann durch verschiedene Faktoren
+konkret erreicht werden:
+
+• Unser Thema „Mehr Transparenz“ (s. oben) ist ein wichtiger
+Beitrag zum Abbau von Politikverdrossenheit, dass zu den
+Bürger*innen transportieren soll, welche Entscheidungen wie
+getroffen werden und vor welchen Hintergründen. Im Kontext
+„Starke Demokratie“ nehmen wir so politikverdrossenen
+Menschen das Gefühl, das die wichtigen Themen (die sie
+unmittelbar betreffen) hinter verschlossenen Türen „im
+Geheimen ausgeklüngelt“ würden.
+
+• Kinder- und Jugendgemeinderat: Demokratieförderung beginnt
+bei den Jüngsten und gerade eine erlebbare Demokratie hilft
+Kinder- und Jugendlichen von Grund auf eine positive
+Grundhaltung zur Demokratie zu entwickeln. Daher wollen wir
+uns starkmachen für einen Kinder- und Jugendgemeinderat nach
+dem Vorbild der „Kinder- und Jugendbeteiligung“ in Baden-Württemberg (https://www.lpb-bw.de/kinder-jugendbeteiligung).
+
+• Mehr Diskussionen mit Bürgern zu geplanten großen Projekten
+sollen helfen, große Vorhaben von vorneherein und direkt zu
+kommunizieren, mitsamt aller Implikationen und
+Einschränkungen. Dadurch, und durch die Möglichkeit Bedenken
+zu äußern und diesen argumentativ zu begegnen, schaffen wir
+größere Akzeptanz für politische Vorhaben und stärken unsere
+Gemeinde nachhaltig.
+
+• Entschlossen und gemeinsam gegen Populismus
+parteiübergreifend anzutreten, zeigt ein starkes Bild für die Stadt
+Lebach als demokratiefreundlicher Ort, der Probleme ernst
+nimmt aber sie sachlich und faktisch angeht, statt sich falschenpopulistischen Heilsversprechen hinzugeben. Dafür wollen wir
+gemeinsam mit den anderen demokratischen Parteien in Lebach
+den Schulterschluss suchen und bei konkreten populistischen
+Problemen vor Ort, uns diesen entgegenstellen ohne die
+ursächlichen Probleme zu vernachlässigen.
+
+Mehr Digitalisierung
+
+Wir wollen die heutige Verwaltung weiter digitalisieren, um
+Dienstleistungen für Bürger*innen angenehmer und moderner zu
+gestalten und damit Nutzer als auch Verwaltungspersonal zu
+entlasten.
+
+Digitale Services werden immer notwendiger, um Bürokratie
+abzubauen, Verwaltung zu entlasten und viele Prozesse angenehmer
+und effizienter für Bürger*innen und Verwaltung abzuwickeln.
+Gerade in Deutschland sind wir Schlußlicht in der EU was digitale
+Verwaltung angeht und haben noch einiges an Arbeit vor uns. Doch
+gerade ein kommunaler Flickenteppich an Tools und Vorgaben
+erschwert eine einfache Anbindung neuer Software.
+
+Daher braucht es eine Digitalisierungsstrategie, die eine Vision für
+eine zukünftige IT-Landschaft beschreibt und basierend darauf eine
+Roadmap vorlegt, wie diese erreicht werden soll. Dies sollte nach
+gängigen Brachenstandards erstellt werden und Konzepte moderner
+IT-Architekturen beinhalten. Dazu gehört neben technologischen
+Anforderungen (wie einer serviceorientierten Microservice-Architektur,
+die bestehende zentrale Dienste wie die eID einbindet) aber auch das
+Mindset von IT-Dienstleistern, die den Kunden in den Mittelpunkt allen
+Handelns stellen und basierend darauf Dienste erstellen/einkaufen,
+die den Benefit des Kundens (Bürger*innen & Verwaltung)
+maximieren.
+
+Wir wollen daher die Bildung eines Digitalauschusses anregen, der die
+Erstellung eine solchen Digitalisierungsstrategie anstößt und als
+Lenkunsausschuss/Aufsichtsrat die Digitalisierungsvorhaben auf
+Kommunalebene lenkt, fördert und fordert.
+
+Mehr Umweltschutz
+Wir wollen mehr Umweltschutz auf die Agenda unserer
+Kommunalpolitik bringen, um unsere natürlichen Ressourcen in und
+um Lebach zu schützen.
+
+Aktuell findet man in Lebacher Wäldern und Grünanlagen immer
+öfters abgeladenen Grünschnitt und andere Gartenabfälle. Dies ist
+natürlich ein No-Go und durch nichts zu rechtfertigen, jedoch muss
+man auch sehen, dass Lebach im Vergleich zu den umliegenden
+Gemeinden extrem hohe Abfallgebühren hat für Grünschnitt. Dies hat
+den obengenannten Effekt, da bereits in durchschnittlichen Gärten das
+Jahr über mehrere Kubikmeter Grünschnitt anfallen. Bei Personen, die
+größere Sträucher oder Hecken haben, die mehrfach im Jahr
+geschnitten werden müssen fallen wieder mehrere Kubikmeter
+Grünschnitt an.
+Die einzige Möglichkeit zur Entsorgung in der Gemeinde ist die
+Nutzung des Wertstoffhofs Lebach, der pro angefangenen Kubimeter
+auf dem Hänger 10€ verlangt.
+Dies ist viel zu hoch und vernachlässigt vor allem den Fakt, dass
+dieser Grünschnitt die perfekte Grundlage einer funktionierenden
+Kreislaufwirtschaft ist: Angelieferter Grünschnitt wird verrotten
+gelassen und kann anschließend als hochwertiger Humus zu
+moderaten Preisen an Bürger*innen verkauft werden.
+Wir fordern daher konkret die deutliche Senkung der Abgabegebühren
+für Grünschnitt und die Nutzung des angelieferten Grünschnitts im
+Rahmen einer nachhaltigen Kreislaufwirtschaft!
+
+Zudem fordern wir einen Ausbau der Bildungsarbeit an
+Gemeindeschulen zum Thema Umweltschutz. Denn Aufklärung und
+die frühe Bildung von Umweltbewusstsein tragen maßgeblich dazu
+bei, von Kindesalter an unsere Umwelt sauber zu halten und als
+Rückzugs- & Erholungsort zu schätzen.
+
+Klimaschutz & -anpassung
+
+Die menschgemachte Klimakatastrophe bedroht uns alle, sowohl
+global aber auch lokal in Lebach. Vor allem Extremwetterereignisse
+wie Starkregen und Überschwemmungen als auch Dürreperioden
+bedrohen uns lokal.
+
+Daher fordern wir den Erhalt der Theel-Retentionsflächen:
+Versickerungsflächen schützen die dahinterliegenden Wohn- und
+Industriegebiete vor Flutschäden und extremen Schäden. Daher
+sollten diese erhalten werden und nicht für weitere Industriebetriebe
+verkleinert werden. Denn nicht nur werden diese Gewerbsflächen mit
+ziemlicher Sicherheit in den nächsten Jahren überflutet werden und
+durch Feuerwehr-Einsätze auch uns Steuerzahler belasten; sondern
+sie sorgen auch dafür, dass das Wasser nicht versickern kann und
+weiter in Richtung Wohngebiete vordringen kann, was leichtfertig
+Wohngebiete gefährdet.
+
+Zudem wollen wir für künftige Dürre- & Hitzeperioden Kälteräume
+etablieren, wo besonders durch Hitze gesundheitliche gefährdete
+Personen sich tagsüber in klimatisierten Räumen aufhalten können.
+Zudem können diese Räume in diesem Zuge auch als
+Begegnungsräume genutzt werden können, was auch den
+Zusammenhalt unserer Gesellschaft stärken könnte.
+
+Ein anderer Aspekt ist die Reduzierung von Lichtverschmutzung, was
+helfen kann das Insektensterben zu begrenzen und Energie zu
+sparen. Die Straßenbeleuchtung stammt ursprünglich aus einer Zeit,
+in der Energie im Überfluss herrschte, da man Kohle-& Kernkraftwerke
+nicht beliebig herunterregeln konnte und nachts die großen
+Industrieverbaucher wegfielen. Dies ist heute nicht mehr zeitgemäß
+und sorgt für viele negative Seiteneffekte. Wir wollen daher eine
+intelligente Straßenbeleuchtung, die bewegungsgesteuert dafür sorgt,
+dass unsere Wege weiterhin gut ausgeleuchtet sind ohne Energie zu
+verschwenden oder die Umwelt zu stören.
+
+Dies sind jedoch nur einige Aspekte, die wir aufgrund des
+Klimaschutzes beachten müssen. Doch es werden noch viele weitere
+Themen kommen. Daher wollen wir einen Klimaschutz- &
+Klimaanpassungsmanager etablieren, der sich um genau diese
+Belange kümmert. Zudem wollen wir in der Stadt und den Stadtteilen
+ehrenamtliche Klimaschutzpat*innen etablieren, nach dem KlikKS-Konzept (https://klimaschutz-ehrenamt.de/)
+
+ÖPNV ausbauen
+
+Gerade im Zuge der Klimakatastrophe und der Vermeidung von
+Treibhausgasen rückt der Öffentliche Personen-Nahverkehr immer
+mehr in der Fokus. Zwar wird in unserem eher ländlich geprägten
+Raum der ÖPNV nicht den Individualverkehr komplett ersetzen,
+dennoch gibt es viele Personen in Lebach und den Stadtteilen, die
+darauf angewiesen sind.
+
+Wir wollen daher den ÖPNV ausbauen und die Stadtteile besser
+anbinden. Dies könnte durch eine Ringlinie geschehen oder durch den
+vermehrten Einsatz von Rufbussen. Wir wollen hier Konzepte
+evaluieren auf ihr Verhältnis von Wirtschaftlichkeit zu Verbesserungen
+für Bürger*innen.
+
+Daher wollen wir auch die Bahnstrecke nach Saarlouis/Dillingen
+wieder reaktivieren, was bereits im Verkehrsentwicklungsplan des
+Saarlandes (Seite 171ff.) untersucht wurde und einen positiven
+Kosten-Nutzen-Effekt hat.
+
+Ein weiterer Punkt des ÖPNV-Ausbaus sollte das Thema Rad- &
+Fusswege beinhalten und den Ausbau ebenjener innerhalb der Stadt
+als auch in Verbindung zu den Stadtteilen, sodass auch ein
+unmotorisierte Fortbewegung in der Stadt und zwischen den
+Stadtteilen problemlos möglich ist ohne dauernd Bundesstraßen
+nutzen zu müssen, die ein erhebliches Risiko für Fussgänger und
+Fahrradfahrer darstellen.
+
+Sichere Schulwege
+
+Wir wollen die Schulwege und die Wege rund um die Schulen in
+Lebach sicherer machen für Schulkinder und -Jugendliche.
+
+Dazu gibt es vielfältige Konzepte, die wir gerne im Stadtrat auf
+Umsetzbarkeit prüfen und dann auch umsetzen wollen, zum Beispiel
+durch die Schaffung von Schulstraßen. Dies bedeutet, dass diese
+Straßen „vor der Schule in den Zeiten rund um Schulbeginn und -ende
+für den Autoverkehr gesperrt [sind]– meist für eine halbe Stunde.“
+(https://www.zu-fuss-zur-schule.de/mitmachen/politischerwerden/schulstrassen).
+
+Kinder & Jugendliche stärken
+
+Wir wollen generell Kinder und Jugendliche in Lebach und seinen
+Stadtteilen stärken: Sei es durch vermehrte Freizeitangebote, durch
+politische Teilhabe (wie bei „Starke Demokratie“ beschrieben bei
+Kinder- und Jugendgemeinderat) oder durch neue
+Ganztagsschulmodelle.
+Konkret wollen wir die Kinder- und Jugendangebote durch Vereine
+stärken, indem wir die Vereine als Gemeinschaften vor Ort stärken.
+Zudem wollen wir auch in allen Stadtteilen und in Lebach selbst
+Multifunktionsplätze etabliere oder ausbauen, um unabhängige Spiel& Sportangebote zu ermöglichen. Diese sollten tagsüber frei
+zugänglich sein.
+Auch die Jugendzentren und Jugendtreffs wollen wir (neu) etablieren.
+Gerade das Lebacher JuZ bleibt als Angebot weit hinter seinem
+Potential zurück, was auch mit seinem Ruf zu tun hat. Hier wollen wir
+das bestehende Konzept überprüfen, ausbauen und das JuZ neu
+etablieren, um einen geordneten und sicheren Treffpunkt für
+Jugendliche in Lebach zu ermöglichen.
+
+Neben diesen Punkten, die vermehrt die Freizeitaktivitäten von
+Kindern und Jugendlichen betreffen, wollen wir aber auch ein Modell
+in Lebach starten mit einer „echten“ Ganztagsschule, bei welcher der
+Unterrichtsstoff entzerrt wird und dazwischen Freizeitaktivitäten
+stattfinden können. Dazu braucht es aber auch mehr Lehrkräfte,
+welche die Schüler ganztags betreuen und auch beim Hausaufgaben
+machen als Ansprechpartner zur Verfügung stehen, um somit allen
+Kindern eine faire Förderung ermöglichen. Zudem sehen wir solch ein
+Konzept auch als Chance um Vereine zu stärken, die in den Zeiten für
+Freizeitaktivitäten auch Vereinsaktivitäten anbieten können und somit
+mehr Kinder für ihre Themen begeistern können.
+
+Mehrgenerationen-Projekte fördern
+
+Heutzutage ergeben sich viele Probleme gerade für ältere Personen in
+unserer Gesellschaft, als auch für sehr junge Personen in unserer
+Gesellschaft. Vielfach lassen sich diese Herausforderungen abfedern,
+indem sich die Generationen gegenseitig unterstützen. Daher wollen
+verschiedene Projekte die den Gedanken der Mehrgenerationen
+tragen, fördern.
+
+Konkret wollen wir die Umwidmung von Einfamilienhäusern in
+Mehrfamilienhäuser einfacher machen, unter der Vorraussetzung,
+dass sie als Mehrgenerationenhaus genutzt werden. Dabei sollte egal
+sein, ob die Enkel zu den Großeltern ziehen, die Eltern zu ihren
+Kindern oder ob Senioren einen Teil ihrer Wohnung an Studenten
+vermieten, solange dies dem Mehrgenerationen-Gedanken folgt.
+Zudem wollen wir bei Neuflächenausweisung städtische
+Seniorenhäuser mitbauen, die barrierefreie und bezahlbare
+Wohnungen für ältere Personen bereitstellen. Dadurch schaffen wir
+zugänglichen Wohnraum für Senior*innen, die in nicht-barrierefreien,
+(für sie zu) großen Einfamilienhäusern leben. Denn gerade die
+Nachfrage nach barrierefreiem Wohnraum für Ältere nimmt stetig zu.
+Gleichzeitig hätte das aber auch den Effekt, dass Einfamilienhäuser
+frei würden. Dadurch würden beim Bau eines Seniorenhauses im
+Schnitt das 2- bis 3-fache an Einfamilienhäusern frei werden, sodass
+der verfügbare Wohnraum viel effizienter genutzt werden kann.
+
+Wichtig ist zudem auch die Personen außerhalb der Wohnsituation
+zusammenzubringen. Daher wollen wir die Vereine zusammenbringen
+und eine Begnungsstätte etablieren, wo generationenübergreifende
+Aktivitäten angeboten werden. Dort könnten sich dann Vereine
+integrieren und Angebote über ihr eigentliches Spektrum heraus
+anbieten die einen vernetzenden Charakter haben: Zum Beispiel
+könnten wir uns als relativ junger Verein vorstellen ein Repair-Cafe
+und Technologie-Erklär Nachmittag anzubieten, da gerade ältere
+Personen es oft schwer haben mit immer komplexer werdender
+Technik, wie Smartphones oder Laptops, umzugehen.
+
+Erneuerbare Energien zur Finanzierung
+
+Die Energiewende läuft bereits und ist in vollem Gange. Und egal, ob
+man das gut findet oder noch der Kernkraft nachtrauert, sind
+erneuerbare Energien die Energie der Zukunft (bis in 30-100 Jahren
+Kernfusion verfügbar ist). Von daher wäre es sinnvoll, den Ausbau
+ebendieser nicht nur zu unterstützen, sondern auch sich aktiv daran
+zu beteiligen und dadaurch an der Energiewende mitzuverdienen.
+
+Ganz konkret wollen wir daher prüfen, welche weiteren Flächen für
+Windkraft und Photovoltaik ausgewiesen und an Energiebetreiber
+verpachtet werden können. Dadurch könnte man weitere
+Einnahmequellen für unsere Kommune erschließen und gleichzeitig
+den Ausbau erneuerbarer Energien vorantreiben. Zudem soll auch
+geprüft werden, ob nicht auch weitere Standorte durch die Stadtwerke
+Lebach, bzw. kommpower, selbst ausgebaut und vermarktet werden
+können.
+Stärkung der Stadt Lebach und des
+ländlichen Raums
+
+Unsere Stadt inklusive der Stadtteile ist an sich schon eine starke
+Gemeinschaft. Dennoch wollen wir diese weiter stärken und die
+Angebote erweitern.
+
+Wir wollen daher die Nahversorgung in den Stadtteilen verbesser
+sowie die Vereine, das Vereinsleben, die kulturellen Angebote und
+das Ehrenamt stärken. Konkret wollen wir im Dialog mit den Vereinen
+und Trägern Probleme herausfinden, Infrastruktur bereitstellen und an
+gemeinsamen Lösungen arbeiten. Zudem wollen wir die Vernetzung
+untereinander und mit öffentlichen Trägern verstärken.
+
+

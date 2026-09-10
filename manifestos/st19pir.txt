@@ -1,0 +1,910 @@
+1.2.2 Umfassende Transparenz
+Bürgerbeteiligung beginnt mit Information und Transparenz. Akzeptanz von Projekten wird
+durch Nachvollziehbarkeit geschaffen. Deshalb muss über geplante Projekte von Anfang an
+umfassend informiert werden. Deshalb sollten lieber eher zu früh und zu viele Vorhaben auf
+­stuttgart-meine-stadt.­de angemeldet werden.
+
+1.2.3 Forderung nach Einführung einer Bürgerbefragung
+Wir fordern, dass über alle Themenbereiche, für die der Gemeinderat und die Verwaltung zuständig
+sind, von den Bürgern abgestimmt werden soll. Konkret könnte dies so aussehen, dass die Verwaltung im Auftrag des Gemeinderats einmal jährlich für ausreichend große Bauleitplanungen, öffentliche Infrastrukturprojekte, Haushaltsthemen usw. einige Fragen schriftlich mit eindeutigem Code
+an die Bürger verschickt. Im Vorfeld ist Input der Bürger erwünscht, z.B. via gelbe Karte. Die Bürger
+können den Fragebogen per Post zurückschicken oder alternativ elektronisch mit Hilfe des Codes
+im Internet ausfüllen - es gilt eine Frist von einem Monat ab Versand. Es besteht keine Mitmachpflicht, sondern lediglich ein Recht dazu (analog Wahlrecht ohne (Wahlpflicht). Der Gemeinderat
+muss das Ergebnis der Befragung für alle gestellten Fragen in den zuständigen Ausschüssen und im
+Plenum behandeln und alles veröffentlichen.
+
+1.2.4 Forderung nach Ausgestaltung des Petitionsrechts für die Stadt
+Wir fordern ein Petitionsrecht, das praktikabel und normenklar ist: für Gemeinderat und Verwaltungseinrichtungen, generell online, aber mit der zusätzlichen Möglichkeit, Petitionen über Bürgerbüros einzureichen. Mindestanzahl von Petitionsunterstützern für die verpflichtende Behandlung: 1% (ca. 5000 absolut). Auch Resolutionen an das Land könnten so ausgelöst werden.
+
+1.2.5 Raumordnung und Bauleitplanung
+Wir stimmen für die verpflichtende Bürgerbeteiligung während der Raumordnungsverfahren, d.h.
+vor Bebauungsplanerstellung ist zwingend im Vorfeld mit der Bürgerschaft das Vorhaben abzustimmen. Dabei wird auch klar, wie viele Menschen vor Ort sich jeweils dafür interessieren; die
+Vorschläge sind für das weitere Vorgehen verbindlich. Dabei hat S-Mitte eine Sonderstellung, dort
+sind generell alle Stuttgarter (meist) involviert. Damit soll die bisherige Unverbindlichkeit der Beteiligung überwunden werden.
+
+1.2.6 Bürgerlotsen
+Wir fordern ehrenamtliche Bürgerlotsen, wie es sie schon im Diakoniekrankenhaus und in Mannheim gibt. Diese Bürgerlotsen sollen möglichst alle Alters- und Bevölkerungsgruppen repräsentieren und als Schnittstellen zu Kommunalpolitik dienen (wie in Mannheim). Die Lotsen sollen jährlich
+öffentlich im Rathaus geehrt werden (wie Blutspender)! Auch für das Rathaus ist das sinnvoll.
+
+1.2.7 Bürgerportal
+Wir setzen uns für ein virtuelles Gemeinschaftsprojekt Bürgerportal ein (wie von OB Ude in München, s. http://direktzu.muenchen.de/ude). Dort könnten Meinungen aller Stakeholder (= Beteiligte aus Bürgerschaft, Politik und betroffenen Firmen) für vorgegebene Angelegenheiten gesammelt
+werden. Dazu ist eine zusätzliche Rubrik/Möglichkeit auf stuttgart-meine-stadt.de zu schaffen.
+
+1.2.8 Whistleblower-Schutz
+Die Piratenpartei Stuttgart fordert die Einrichtung einer Meldestelle für Verwaltungs-angestellte,
+die einen Missstand in der Verwaltung bemerkt haben. Sogenannte Whistleblower sollen einen umfassenden Kündigungsschutz erhalten und nach Möglichkeit ihre Anonymität wahren können.
+Die Einrichtung dieser Meldestelle soll ausdrücklich andere Gemeinden, Unternehmen etc. ermutigen, das Konzept zu übernehmen.
+
+1.2.9 Besserer Bürgerhaushalt
+Der Büŕgerhaushalt Stuttgart ist zwar ein Schritt in die richtige Richtung, jedoch bleibt er in seiner
+aktuellen Form weit hinter seinen Möglichkeiten zurück.
+Wir beabsichtigen eine umfangreiche Überarbeitung des Bürgerhaushaltes unter Einbeziehung anerkannter Experten. Der zukünftige Bürgerhaushalt muss unter anderem folgende Kriterien erfüllen:
+-	Betrieb und Betreuung durch die Stadt Stuttgart
+-	Offenlegung aller Quelltexte
+-	Intuitive und benutzerfreundliche Bedienoberfläche
+-	Einführung eines Benutzer-Verifikationsmodells, etwa durch einen Code-Brief an die Bürger
+-	Verpflichtende Behandlung der Top-100 zuzüglich der darin nicht enthaltenen jeweils maximal beiden besten Bezirksvorschläge in den Haushaltsberatungen des Gemeinderats
+-	mittelfristig: Budgets für den Gesamthaushalt und die Bezirke, so dass die besten Vorschläge, die den gesetzten Etat nicht sprengen, automatisch umgesetzt werden (ähnlich den Bezirksbeiratsbudgets)
+
+1.3 Transparenz, offene Verwaltung
+1.3.1 Gläserne Kommune
+Eine gläserne Kommune bildet die Voraussetzung für mündige Bürger und eine echte Bürgerbeteiligung. Die Unterlagen der öffentlichen Sitzungen städtischer Gremien inklusive Bezirksbei- und
+Jugendräte sollen grundsätzlich maschinenlesbar zentral im Internet zugänglich gemacht werden.
+
+1.3.2 Open Access
+Aus öffentlicher Hand finanzierte wissenschaftliche Informationen sollen auch der Öffentlichkeit
+zugute kommen und damit für alle Bürger einfach und frei zugänglich sein. Die Veröffentlichung
+findet über Dokumente-Server, sogenannte Repositorien, statt. Die Vernetzung aller Open-Access-Repositorien ermöglicht Suchfunktionen, die sich über alle Server erstrecken und somit einen
+benutzerfreundlichen Zugriff gewährleisten. Außerdem trägt die Vernetzung zur Verbreitung und
+Wahrnehmung aller Werke bei. Langzeitarchivierung, um die Inhalte dauerhaft zu speichern und
+die Wahrung der Authentizität durch digitale Signaturen sind wichtige Aspekte, die berücksichtigt
+werden müssen.
+
+1.3.3 Freie und plattformunabhängige Dateiformate für staatliche Veröffentlichungen
+Offene Formate garantieren, dass Informationen auch langfristig lesbar sind. Diese müssen möglichst in durchsuchbarer Form zur Verfügung gestellt werden. Der Zugang zu veröffentlichten Informationen darf nicht davon abhängen, welches Computersystem jemand benutzt oder ob spezielle
+Software installiert oder gekauft wurde. Deshalb fordern wir, Veröffentlichungen in einer Form vorzunehmen, die auf offenen standardisierten Formaten basiert.
+
+1.3.4 Informationsfreiheit
+Wir fordern eine Transparenzsatzung für die LHS nach Hamburger Vorbild, soweit dies im Rahmen
+des Landesinformationsfreiheitsgesetzes und des Umweltinformationsgesetzes Baden-Württemberg möglich ist mit folgenden Eckpunkten:
+-	Respektierung von Geschäftsgeheimnissen aufgrund der gesetzlichen Vorgaben als Auskunftsausschlussgrund
+-	Abschaffung der Gebühren für die kommunalen Auskünfte der Stadt Stuttgart
+-	Gültigkeit auch für Beteiligungsgesellschaften der LHS, soweit die Stadt Stuttgart eine Mehrheit an dieser hält
+-	sinnvollerweise könnte es z.B. unter transparenz.stuttgart.de nach Hamburger Vorbild das Transparenzportal geben
+
+1.3.5 Streaming aus Gemeinderatsgremien
+Wir setzen uns für das Aufzeichnen aller Sitzungen (öffentlicher Teil) des Gemeinderats und seiner
+Ausschüsse, v.a. der beschließenden Ausschüsse und dort allen voran des UTA (Umwelt- und Technikausschuss) ein. Nach 24 Stunden werden diese veröffentlicht. Dabei ist der Datenschutz v.a.
+der Nichtmitglieder des Gemeinderats (Verwaltungsmitarbeiter usw.) zu wahren; bei Einsprüchen
+können auf Anforderung einzelne Passagen der Aufzeichnungen vor der Veröffentlichung entfernt
+werden.
+Wir streben zusätzlich eine einfach durchsuchbare Archivierung und Veröffentlichung der Aufzeichnungen an.
+
+1.3.6 Freie Software in Behörden und staatlichen Einrichtungen
+Die Piratenpartei Stuttgart wird sich dafür einsetzen, die Möglichkeit zur Nutzung von OpenSource-Software als Alternative zu proprietärer Software zu evaluieren und an geeigneter Stelle
+umzusetzen bzw. deren Umsetzung mit voranzutreiben.
+
+1.3.7 Offener Haushalt
+Wir fordern eine transparente und nachvollziehbare Aufbereitung des Haushalts der Landeshauptstadt Stuttgart, welche für die Bürger einfach zugänglich sein muss (siehe http://www.offenerhaushalt.de).
+
+1.3.8 Geheimverträge aufdecken
+Wir lehnen Geheimverträge beim Verkauf öffentlichen Eigentums ab. Gerade bei der Verwaltung
+kommunaler Gelder ist Transparenz äußerst wichtig, daher fordern wir die Veröffentlichung bisheriger Verträge und die Abschaffung von Geheimklauseln in zukünftigen Verträgen.
+
+1.3.9 Zentrales Informationsportal
+Wir fordern von den Städten, Gemeinden und Stadtbezirken/-teilen ein zentrales Informationsportal mit dem ausschließlichen Zweck ihre Entscheidungen, Sitzungen, Sitzungsprotokolle (sofern
+öffentlich), Petitionen/Bürgeranträge, Entscheidungsfindungen, Ausschreibungen, Antworten auf
+Ausschreibungen, (Grün)Flächenplan etc. barrierefrei zu veröffentlichen. Dieses Portal hat in gesamtem Umfang online zur Verfügung zu stehen. Die Daten haben zusätzlich in einem offenen
+Standard maschinenlesbar aufbereitet zu sein. Die veröffentlichten Daten stehen unter einer offenen Lizenz.
+
+1.4 Datenschutz
+1.4.1 Datenschutzschulungen für kommunale Mitarbeiter
+Gesetze und Vorschriften zum Datenschutz sind umfangreich und ändern sich häufig. Regelmäßige
+Schulungen zum Landesdatenschutzrecht und zu Datenschutzvorschriften sowie den Rechten der
+Betroffenen sollen den Mitarbeitern zu einem sensiblen Umgang mit Daten und datenschutzgerechten Arbeitsabläufen verhelfen.
+
+1.4.2 Datenherausgabe durch Bürgerämter nur nach Zustimmung
+Privatpersonen, Firmen, Kirchen, Parteien und andere Einrichtungen fordern von Bürgerämtern
+gegen geringe Gebühren Daten über Bürger ohne deren Einwilligung an, um diese zu privaten oder
+kommerziellen Zwecken zu verwenden. Eine Weitergabe von Informationen über Bürger ohne deren Einwilligung lehnen wir ab. Alle Bürgerämter der Stadt werden angehalten, diese Praxis zu beenden, da sie dem Grundrecht auf Informationelle Selbstbestimmung widerspricht. Stattdessen
+muss in Zukunft sichergestellt sein, dass die Erlaubnis der Bürger eingeholt wurde, bevor Informationen über sie herausgegeben werden. Wurde diese Erlaubnis erteilt, soll der Bürger auf Anfrage
+Informationen über die getätigten Abfragen erhalten und seine Erlaubnis jederzeit widerrufen können.
+
+1.5 Bildung, Familienpolitik
+1.5.1 Vorwort
+2003 wurde das Ziel “Stuttgart soll die kinderfreundlichste Stadt Deutschlands werden“ formuliert.
+Vor dem Hintergrund der aktuellen Verschuldung der öffentlichen Haushalte müssen jetzt Prioritäten zur zeitnahen Realisierung des wichtigsten kommunalpolitischen Themas gesetzt werden.
+Der KiTa wie auch dem Familienzentrum fällt als Ort der frühkindlichen Bildung bei der Kinder- und
+Familienpolitik eine entscheidende Rolle zu.
+
+1.5.2 Ausbau der Betreuung
+Wir fordern den umgehenden Ausbau der Betreuung an den Kindergärten der Landeshauptstadt
+Stuttgart und die erforderliche Aufstockung des Personalbestandes, um Engpässe zu vermeiden.
+
+1.5.3 Selbstbestimmtes Leben - spielerisch Voraussetzungen erlernen
+In den ersten Jahren werden wichtige Voraussetzung für ein späteres selbstbestimmtes Leben geschaffen. Diese Fähigkeiten sollen spielerisch unter Berücksichtigung der unterschiedlichen Interessen der Kinder in alle Bildungsfelder vermittelt werden.
+
+1.5.4 Chancengleichheit bei der frühkindlichen Bildung
+Kinder sollen entsprechend ihrer Begabung und unabhängig der sozialen und kulturellen Herkunft
+die bestmöglichen Voraussetzungen für den Schulbeginn und ihr weiteres Leben erwerben.
+
+1.5.5 Kostenlose Kinderbetreuung
+Wir setzen uns für eine kostenlose Kinderbetreuung ein. Die Betreuung soll nicht nur als Übergang,
+sondern als Teil des integrierten Bildungs- bzw. Schulsystems gesehen werden.
+
+1.5.6 Freiwillige Inanspruchnahme des Betreuungsangebotes
+Die Inanspruchnahme des Betreuungsangebotes für U3-Jährige soll freiwillig sein. Wir erkennen die
+Bedeutung der Eltern-Kind-Bindung in den ersten Lebensjahren an.
+
+1.5.7 101% - Lieber ein Platz zu viel als einer zu wenig
+Wir setzen wir uns für ein Betreuungsplatzangebot von 101 %, bezogen auf den tatsächlichen Bedarf, ein. Sowohl für die U3-, als auch für die Ü3-Jährigen soll ohne längere Wartezeit ein Angebot
+in Wohnnähe verfügbar sein.
+
+1.5.8 Mehr Personal in der Betreuung
+Im Zusammenhang mit dem Ausbau der Betreuungsplätze ist bei der erforderlichen Aufstockung
+des Personalbestands der Betreuungsschlüssel entsprechend europäischer Standards einzuhalten.
+Das bedeutet ein Verhältnis von Betreuern zu Kindern von 1:3 für Ein- bis Zweijährige und 1:4 für
+Zwei- bis Dreijährige.
+
+1.5.9 Höherer Anteil männlicher Erzieher in der Betreuung
+Wir setzen uns für einen höheren Anteil männlicher Erzieher in der Betreuung ein. Männliche und
+weibliche Erzieher haben in ihrer Funktion als Bezugsperson die gleiche Bedeutung.
+
+1.5.10 Mitarbeiter mit Migrationshintergrund
+Wir unterstützen eine höhere Quote von Mitarbeitern mit einem Migrationshintergrund. Der Zugang zu Kindern und Eltern mit einem Migrationshintergrund ist durch Mitarbeiter, die selber einen
+Migrationshintergrund haben, leichter.
+
+1.5.11 Qualifizierte Ausbildung
+Wir unterstützen die Beschäftigung von mehr Fachkräften mit dem Abschluss eines FH- oder Hochschulstudiums, sowie das Angebot kontinuierlicher Weiterbildungsmaßnahmen. Eine bestmögliche Ausbildung spielt bei der Kinderbetreuung eine entscheidende Rolle.
+
+1.5.12 Bessere Bezahlung
+Wir setzen uns für eine übertarifliche Bezahlung in der Kinderbetreuung ein. Zum einen soll dies
+dem Fachkräftemangel in der Betreuung entgegenwirken und zum anderen die Wertigkeit der Tätigkeit widerspiegeln.
+
+1.5.13 Qualität vor Quantität beim Neubau von KiTas
+Neben dem Ausbau bereits vorhandener ist auch der Bau neuer KiTas erforderlich. Vor dem Hintergrund der aktuellen Unterversorgung und dem Rechtsanspruch seit August 2013 muss Qualität vor Quantität gelten. Eine befristete Absenkung von Baustandards gilt es zu vermeiden.
+
+1.5.14 Kontinuierliche Instandhaltungsmaßnahmen
+Wir setzen uns für eine vorausschauende Planung bei der Modernisierung von Betreuungseinrichtungen sowie für kontinuierliche Instandhaltungsmaßnahmen ein.
+
+1.5.15 Gleichrangige Unterstützung von Trägern
+Sofern die Rahmenbedingungen erfüllt sind, sollen öffentliche und freie Träger die gleiche Priorisierung erfahren. In Stadtteilen mit einem signifikanten Anteil beispielsweise muslimischer Familien, ist ein entsprechendes Angebot geeigneter Träger zu berücksichtigen.
+
+1.5.16 Städtische Eigenbetriebe als Vorbild betrieblicher KiTas
+Die Verbesserung der Betreuungssituation in den KiTas der Eigenbetriebe soll als Vorbildfunktion
+für das Engagement der Unternehmen dienen.
+
+1.5.17 Benchmarking und Best Practices zur Qualitätssteigerung
+Ein kontinuierlicher Vergleich von KiTas sowohl in der Region als auch in Europa, erhöht die Qualität der Einrichtungen und verbessert die Chancengleichheit der Kinder. Die nach einem Benchmarking ermittelte beste Vorgehensweise (Best Practices) gilt es vollständig zu übertragen oder zumindest im Sinne von Good Practices punktuell zu übernehmen.
+
+1.5.18 Vereinbarung von Beruf und Familie
+Die Öffnungszeiten sollen sich an den Arbeitszeiten der Eltern orientieren. Im Sinne der Work-Life-Balance ist der Betrieb während der Ferien zu gewährleisten.
+1.5.18 Integration und Inklusion
+Wir setzten uns für eine Umsetzung der UN-Behindertenrechtskonvention in den KiTas ein. Kindern mit einer Behinderung sollen ein ungehinderter, d.h. auch selbstbestimmter Zugang zum gemeinsamen Lernen, eine individuell angemessene hochwertige Betreuung und eine gesellschaftliche Teilhabe ermöglicht werden.
+
+1.5.19 Kulturelle Vielfalt nutzen
+Die Zuwanderung von Menschen mit einem Migrationshintergrund stellt eine Bereicherung für unsere Gesellschaft dar. Kultur und Sprache von Kindern mit einem Migrationshintergrund soll spielerisch in den KiTa-Alltag einfließen.
+
+1.5.20 Sprachförderung im Hinblick auf die Einschulung
+Die Entwicklung, sowohl im Sprachverständnis und als auch im Ausdruck, muss durch aktive Unterstützung erfolgen. Kontinuierliche Überprüfungen durch Betreuer vor Ort gewährleisten eine individuell angepasste Förderung in Bezug auf die Integration und Einschulung.
+
+1.5.21 Förderung von Familienzentren
+Wir setzten uns für den Neubau von Familienzentren und den Ausbau von KiTas zu solchen ein. An
+diesem Ort der Begegnung werden Eltern bei der Betreuung ihrer Kinder in Kursen durch ausgebildete Fachkräfte beraten und unterstützt im Sinne der Hilfe zur Selbsthilfe.
+
+1.5.22 Elternbildung besser nutzen
+In den Betreuungseinrichtungen sollen Elternkurse in deutscher als auch in ausländischer Sprache
+zu den Themen Bildung, Erziehung und Gesundheit von ausgebildeten Mentoren gehalten werden,
+die zum Teil selbst Eltern mit Migrationshintergrund sind. Die Initiative für Kinder- und Familienbildung (KiFa) leistet dies vorbildlich.
+
+1.5.23 Vernetzung von Familien mit Migrationshintergrund verbessern
+Die Verbesserung der Vernetzung, besonders von Familien mit einem Migrationshintergrund, ist
+ein zentraler Aspekt der Kinder- und Familienpolitik. Allerdings bringen Familien mit einem Migrationshintergrund ihre Kinder oftmals nicht zur Betreuung. Die Vernetzung und damit verbundene
+bessere Einbindung in die Gesellschaft soll deswegen im Familienzentrum und durch den gezielten
+Einsatz von Sozialarbeitern, die selber einen Migrationshintergrund besitzen, erfolgen. Wir setzen
+uns für eine qualifizierte Ausbildung und höhere Bezahlung von Sozialarbeitern ein.
+
+1.5.24 Elternbeteiligung
+Eine frühzeitige Evaluation vor Beginn des Kindergartenjahres soll relevante Daten, wie beispielsweise den Bedarf an Plätzen in Wohn- bzw. Arbeitsnähe und gewünschte Öffnungszeiten ermitteln. Bei einer geringen Rücklaufquote gilt es, ein zeitnahes Nachfassen durchzuführen. Eltern aus
+umliegenden Gemeinden soll die Möglichkeit der Partizipation angeboten werden.
+
+1.5.25 Kommunal vernetztes Online-Anmeldesystem
+Die per Elternbefragung ermittelten Kriterien und jeweiligen Ausprägungen sollen bei der Anmeldung für einen Betreuungsplatz abrufbar sein. Die Vernetzung der Kommunen und Träger soll bei
+der Vergabe der Betreuungsplätze in Form eines Anmeldesystems die Warteschlangenproblematik
+lösen. Die Ergebnisse werden mit dem Konzept des kommunal vernetzten Online Anmeldesystems
+(KOA) der Piratenpartei Stuttgart abgebildet.
+
+1.5.26 Einrichtung einer Sammelbörse für Musikinstrumente und Werkzeuge
+Wir setzen uns für die Einrichtung von Sammelbörsen für gespendete Musikinstrumente und für
+Werkzeuge ein. Die Zielgruppe sind Grundschulen im Stadtgebiet. Das Ziel dieser Sammelbörsen
+ist es, Kindern frühzeitig den Kontakt zum Musizieren und Handwerken zu ermöglichen, da Beschäftigungen solcher Art eine gesunde und vielseitige Entwicklung fördern. Die Musikinstrumente
+und Werkzeuge sollen auch für andere Bildungseinrichtungen wie Volkshochschulen, Vereine und
+Musikschulen verfügbar sein, sofern kein Bedarf von einer Grundschule angemeldet wurde.
+
+1.5.27 Keine Bundeswehr an Schulen
+Die Piratenpartei lehnt Werbeveranstaltungen der Bundeswehr an Schulen ab. Wird ein Angehöriger der Bundeswehr jedoch im Rahmen des Unterrichts eingeladen, ist für entsprechende Ausgewogenheit zu sorgen, z. B. durch Hinzuziehen eines bundeswehrkritischen Referenten.
+
+1.5.28 Stärke-Gutschein
+Wir fordern die Verlängerung der Gültigkeit der STÄRKE-Gutscheine von einem auf drei Jahre. Die
+Stadt Stuttgart gibt Bildungsgutscheine im Wert von 40 Euro an alle Eltern Neugeborener aus. Diese sind prinzipiell eine sehr gute Sache, da sie Eltern zum Besuch von Kursen motivieren mit dem
+„Ziel durch Stärkung der Elternkompetenzen, insbesondere der Erziehungskompetenz, Kinder zu
+stärken und ihre Entwicklungsmöglichkeiten zu verbessern.“ Leider sind diese Gutscheine nur ein
+Jahr gültig. Viele Eltern kommen daher nicht dazu, sie einzulösen. Zudem sind viele Kurse nur für
+Eltern mit Kleinkindern geeignet, so dass die einjährige Gültigkeit der Gutscheine der breiten Vielfalt der angebotenen Kurse nicht gerecht wird.
+
+1.6 Stadt- und Raumplanung
+1.6.1 Nachverdichtung
+Wir fordern das Instrument der Nachverdichtung, sowie Stadterneuerungsprojekte dafür zu nutzen, den Wohnraumanteil in der Stadt zu erhöhen.
+
+1.6.2 Mischfunktionalität
+Wir fordern, die Mischfunktionalität in der Stadt zu erhöhen, um lebendige Stadtquartiere zu schaffen.
+
+1.6.3 Ausgleichsbepflanzung
+Gefällte Bäume sind im Rahmen einer Ausgleichsbepflanzung möglichst am gleichen Standort und
+zeitnah zu ersetzen. Angesichts des warmen Stadtklimas ist es erforderlich, den lokalen Baumbestand zu erhalten bzw. auszubauen.
+
+1.7 Wohnen
+1.7.1 Familienorientierte Wohnraumförderung
+Wir fordern eine familienorientierte und altersgerechte Wohnbauförderung für das gesamte Stadtgebiet.
+
+1.7.2 Anteil sozialer Wohnungsbau
+Wir fordern über die vorgesehene Erhöhung der SIM-Quote (Stuttgarter Innenentwicklungsmodell, Anteil von sozial-/geförderten Wohnungen) auf 30% wie in München hinaus eine Erhöhung
+derselben auf 50%, gleich verteilt auf Sozialwohnungen mit verlängerter Mietpreisbindung (30
+Jahre wären sinnvoll) sowie vergünstigter Mietwohnungen für mittlere Einkommensbezieher (keine
+preistreibenden Luxuselemente).
+
+1.7.3 Städtische Wohnungsbaugesellschaften
+Gemäß dem Beschluss über den Zuwachs an Wohnungen der städtischen Wohnungsbaugesellschaft SWSG wird angestrebt, den Gesamtbestand an Wohnungen der LHS und ihrer 100% Beteiligungsgesellschaft SWSG auf 25% wie in Zürich auszubauen. Auf längere Sicht kann auch der deutlich höhere Anteil von Wien angestrebt werden. Mittel im Haushalt für den Aufkauf von Immobilien
+durch die Stadt sind bereits vorhanden. Die SWSG wird stärker als bisher (möglichst in der Rechtsform einer gGmbH) auf die sozialen Belange bezahlbaren Wohnraums ausgerichtet, insbesondere
+sind die Mieterhöhungen sehr niedrig anzusetzen, um dem Anstieg des Mietspiegels zu begegnen.
+
+1.7.4 Verantwortliche Nutzung freiwerdender städtische Flächen
+Freiwerdende Bauflächen sollten der städtischen Wohnungsbaugesellschaft SWSG mit klaren Auflagen hinsichtlich Mietpreisbindung übertragen werden. Ist ein solches Vorgehen zu teuer, ist alternativ auf eine hohe Sozialwohnungsquote von idealerweise 50% zu achten und Genossenschaften
+und sozial sinnvolle Konstruktionen wie das Miethäusersyndikat sind zu bevorzugen.
+
+1.7.5 Ausbau von Studentenwohnungen
+Die Piraten fordern, dass weiter aus öffentlicher Hand finanzierter und bezahlbarer Wohnraum für
+Studenten in Stuttgart geschaffen wird.
+
+1.7.6 Verkauf städtischer Flächen
+Es werden grundsätzlich keine städtischen Flächen und Gebäude an private Eigentümer welcher
+Art auch immer verkauft. Dafür gibt es ein paar wenige Ausnahmen:
+-	Flächentausch: falls nur per Tausch mit anderen Grundstücken die Möglichkeit besteht, an für die Stadt Stuttgart zur städtischen Immobilienentwicklung wichtige Flächen heranzukommen, ist dies möglich, wenn die Gesamtfläche und die Qualität der städtischen Immobilien so nicht sinkt.
+-	In geringem Umfang kann abseits des Verkaufs oder der Verpachtung (Erbpacht) an die SWSG von städtischen Immobilien an Genossenschaftswohnbau oder Modelle wie das Mietshäusersyndikat verkauft werden. Auch hier darf netto kein Verlust an städtischen Immobilien eintreten, d.h. es muss jährlich mehr von der Stadt erworben als verkauft werden.
+
+1.8 Handel
+1.8.1 Förderung des kleinteiligen Einzelhandels
+Wir fordern eine Strategie zur Stärkung bzw. Förderung des kleinteiligen Einzelhandels. Dieser ist
+gesellschaftlich enorm wichtig für ältere Mitbürger, für Sozialkontakte und nicht zuletzt als Arbeitgeber und Steuerzahler. Ohne kleinteiligen Einzelhandel fehlt die Identifikation des Einzelnen mit
+„seiner“ Straße, „seinem“ Viertel etc.
+
+1.9 Verkehr
+1.9.1 Keine City-Maut
+Die Piratenpartei Stuttgart lehnt eine sogenannte „City-Maut“ ab.
+
+1.9.2 Radwegenetz ausbauen
+Wir fordern die Radwege in Stuttgart weiter auszubauen und zu einem echten Radwegenetz zu
+verbinden. Dazu müssen die verschiedenen Routen auch ausgeschildert werden. Gefahrenstellen
+wie plötzlich endende Radwege oder Pfosten auf der Strecke müssen in Zukunft vermieden werden
+und auf bestehenden Strecken beseitigt werden. Es sollen Interessensverbände und Gruppierungen wie ADFC, Naturfreunde Radgruppe Stuttgart und Critical Mass Stuttgart bei der Planung von
+neuen Radwegen mehr eingebunden werden als bisher.
+
+1.9.3 Rechtsabbiegerpfeile
+Die Piratenpartei fordert die Einführung von Rechtsabbiegerpfeilen an so vielen Kreuzungen wie
+sinnvoll möglich.
+
+1.9.4 Keine städtischen Mittel für Stuttgart 21 Werbung
+Wir lehnen die weitere Finanzierung von Ausstellungen und Öffentlichkeitsarbeit für das Projekt
+Stuttgart 21 durch die Stadt ab.
+
+1.9.5 Kosten von Stadtbahnumbau durch Stuttgart 21
+Wegen Stuttgart 21 muss die SSB Haltestellen und Streckenführungen der Stadtbahn verlegen bzw.
+umbauen. Die Kosten hierfür dürfen nicht auf die SSB und damit auf die Stadt Stuttgart abgewälzt
+werden, sondern müssen von der Bahn getragen werden, wie es in der Kreuzungsvereinbarung
+beschlossen wurde. Es darf nicht sein, dass sie Stadt Stuttgart durch die Hintertür noch mehr für
+Stuttgart 21 bezahlt als bisher veranschlagt.
+
+1.9.6 Stuttgart 21 Brandschutz an Leistungsfähigkeit anpassen
+Die Stadt Stuttgart soll die Bahn auffordern den Brandschutz an die versprochene Leistungsfähigkeit von Stuttgart 21 anzupassen. Das derzeitige Brandschutzkonzept ist nur für 50% bis 70% der
+Reisenden ausgelegt. Es darf nicht sein, dass am Ende der im Stresstest vorgestellte Fahrplan nicht
+gefahren werden darf, weil der Brandschutz dafür nicht ausgelegt ist.
+
+1.9.7 Verkehrsbehinderung durch Stuttgart 21
+Durch Stuttgart 21 gibt wird es schwerwiegende Verkehrsbehinderungen geben. Diese sollten
+wenn möglich vermieden werden, denn Stuttgart ist schon heute Stauhauptstadt in Deutschland.
+Deswegen sollte die Stadt jede Planänderung bei dem Bauprojekt ablehnen, welche die Verkehrssituation weiter verschlechtert.
+
+1.9.8 Modal Split zugunsten des Umweltverbunds
+Der begrenzte Raum für Verkehr in der Stadt Stuttgart wird zugunsten des Umweltverbunds (ÖPNV,
+Radverkehr, Fußgänger) weg vom MIV (motorisierter Individualverkehr) umgewidmet. Sharingangebote werden ebenfalls von der Stadt gefördert (Carsharing usw.).
+
+1.10 ÖPNV
+Die Piratenpartei setzt sich für eine nachhaltige Verkehrspolitik in Stuttgart ein, deshalb fordern wir
+folgende Punkte:
+
+1.10.1 Fahrscheinfreier Nahverkehr
+Die Mobilität der Menschen und damit ihre Teilhabe am öffentlichen und kulturellen Leben hängt
+wesentlich von der Nutzung des öffentlichen Personennahverkehrs (ÖPNV) ab. Wir wollen daher
+eine umlagefinanzierte Nutzung des ÖPNV einführen, um das soziale Recht der Mobilität vom Einkommen des Einzelnen abzukoppeln. Dazu wird das Land Baden-Württemberg aufgefordert, eine
+Nahverkehrsabgabe zu ermöglichen und diese insbesondere über den Verband Region Stuttgart
+erheben zu lassen, so dass auch der ÖPNV in Stuttgart darüber finanziert werden kann. Im Rahmen
+dessen wird dann auch mit den dadurch eingenommen Mitteln der ÖPNV ausgebaut und schrittweise das Bezahlticket verbilligt und am Ende abgeschafft.
+
+1.10.2 Nachtverkehr
+In Stuttgart soll ein durchgehender Nachtverkehr der S-Bahnen und Nachtbusse auch unter der
+Woche angeboten werden. Des Weiteren fordern wir testweise einen nächtlichen Stadtbahnverkehr am Wochenende im Stundentakt.
+
+1.10.3 Ausbau des Nahverkehrsnetzes
+Zum Ausbau des Stuttgarter Nahverkehrs sollen Tangentialverbindungen sowie Ringschlüsse realisiert werden, um die überfüllten Stammstrecken in der Innenstadt zu entlasten.
+
+1.10.4 Zentraler Omnibusbahnhof
+In der Innenstadt kann durch einen zentralen Omnibusbahnhof, möglichst in der Nähe des Hauptbahnhofs, ein zentraler Verkehrsknotenpunkt geschaffen werden.
+
+1.10.5 Weitblick bei Neu- und Umbauten
+Schon heute soll zukunftsorientiert für mögliche Streckenerweiterungen und ein steigendes Passagieraufkommen geplant und gebaut werden.
+
+1.10.6 Veröffentlichung von Fahrgasterhebungen
+Die Stadt Stuttgart wird aufgefordert, den Verkehrsgverbund VVS anzuweisen, die bei Fahrgasterhebungen erhobenen Daten zu veröffentlichen. Dies gilt sowohl für Rohdaten, unter Berücksichtigung datenschutzrechtlicher Kriterien, als auch für die erarbeiteten Ergebnisse.
+
+1.10.7 Tangentialverbindung Bad Cannstatt - Nordbahnhof
+Eine Entlastung der Stammstrecke zwischen Hauptbahnhof und Schwabstrasse ist dringend erforderlich. Deshalb setzen wir uns für die Einfühung einer Tangentialverbindung zwischen Bad Cannstatt und dem Nordbahnhof ein, es könnte z.B. eine Bahn von Esslingen nach Ludwigsburg mit
+entsprechenden Zwischenstationen eingesetzt werden.
+
+1.10.8 Bessere Anbindung von Birkach und Asemwald an das Netz des ÖPNV
+Die Stuttgarter Stadtteile Birkach und Asemwald sind nur ungenügend an das Netz des ÖPNV angeschlossen. Lediglich der 70er-Bus fährt tagsüber regelmäßig im 10-Minuten-Takt, nach 20 Uhr
+wartet man jedoch nach dem Aussteigen aus der U-Bahn bei Ruhbank Fernsehturm oft eine halbe
+Stunde auf den Bus nach Birkach. Die Busse, die Asemwald und Birkach befahren, fahren teilweise
+im 20- oder sogar nur im 30-Minuten-Takt. Der 74‘er-Bus fährt unter der Woche teilweise und am
+Wochenende nur im Stundentakt. Wichtige Verbindungslinien wie der 71er-Bus nach Degerloch
+fahren nach 20 Uhr und am Wochenende gar nicht mehr. Eine bessere Anbindung von Birkach und
+Asemwald an das ÖPNV-Netz ist daher dringend angeraten. Dies kann kurzfristig z.B. über kürzere
+Taktzeiten der bestehenden Busse erfolgen. Langfristig sollte der Anschluss von Birkach als letzter
+Stuttgarter Stadtteil an das U-Bahn-Netz eruiert werden.
+
+1.10.9 Gäubahn als S-Bahn-Strecke
+Wir setzen uns dafür ein, dass insbesondere zur Entlastung der Stammstrecke die Gäubahn in Stuttgart regulär von der S-Bahn befahren wird. Im Bereich der Lenzhalde soll an geeigneter Stelle eine
+neue S-Bahn-Haltestelle geschaffen werden. Im Rahmen der hierzu erforderlichen Änderungen an
+den Linien soll die Möglichkeit geprüft werden, die Linie S60 als Ring-Linie über die Gäubahn verkehren zu lassen.
+
+1.10.10 S-Bahn-Ringschluss
+Zur besseren Erschließung der Städte im Süden von Stuttgart und zur zusätzlichen Entlastung
+der Stammstrecke setzen wir uns für den Bau einer S-Bahn-Verbindung zwischen Filderstadt und
+Wendlingen ein.
+
+1.10.11 Bessere Anbindung der Stadtteile an den Nahverkehr
+In einigen Stadtteilen, beispielsweise in Zazenhausen, den neuen Wohngebieten in Zuffenhausen
+und Büsnau/Lauchau ist die die Nahverkehrsabdeckung nur mangelhaft ausgebaut. Dort müssen
+dringend neue Linien geschaffen und bestehende Linien fahrgastfreundlicher getaktet werden.
+
+1.10.12 Stufenweise Fahrpreissenkung nach dem Vorbild der 365 €
+­Jahreskarte
+Die Einführung eines fahrscheinlosen Nahverkehrs erfordert eine deutliche Steigerung der Kapazitäten der Linien. Um neue Kapazitätsengpässe zu vermeiden, fordern wir die stufenweise Senkung
+der Fahrpreise.
+Als Vorbild sollte insbesondere die außerordentlich erfolgreiche 365€-Jahreskarte in Wien dienen.
+
+1.10.13 Vereinfachtes Studententicket zwischen Universitätsstädten
+Die Tarifstruktur des öffentlichen Nah- und Regionalverkehrs in der Metropolregion Stuttgart stellt
+eine unangenehme Hürde für die Vernetzung der Universitäten dar. Daher fordern wir die Schaffung gemeinsamer Zeitkarten für den Verkehrsbund Stuttgart, den Heilbronner Hohenloher Haller
+Nahverkehr sowie den Verkehrsverbund Neckar-Alb-Donau.
+
+1.10.14 Verringerung des Verkehrslärms
+In engen Kurven und/oder scharfen Weichen soll die SSB lärmmindernde Maßnahmen wie in Zürich
+(Anfeuchtung oder Schmieren der Schienenkronen) durchführen, um die Anwohner nicht unnötig
+mit Rad-Schienenlärm zu belasten.
+
+1.11 Infrastruktur
+1.11.1 Öffentliches WLAN
+Nachdem an verschiedenen öffentlichen Plätzen wie am Schloßplatz öffentliches WLAN angeboten wird, soll dieses Angebot nun schrittweise auf ganz Stuttgart ausgedehnt werden. Dabei sollte
+auch Freifunk berücksichtigt werden; derzeit wird es von kommerziellen Anbietern u.a. zu Werbezwecken betrieben.
+
+1.11.2 Kommunale Netze
+Die Piratenpartei ist der Meinung, dass die Grundversorgung wie Wasser-, Strom-, Gas- und Fernwärmenetze in die öffentliche Hand gehört. Da die Versorgungsnetze in Stuttgart 2002 privatisiert
+wurden, setzen wir uns für ihre Rekommunalisierung ein. Voraussetzung für die Demokratisierung
+der Netze ist die bei der Stadt liegende Betriebsführung.
+Soweit möglich sollte die LHS mit ihren Beteiligungsbetrieben in der SVV (Stuttgarter Verkehrsund Versorgungsgesellschaft) selbst Glasfasernetze aufbauen statt alles über die Telekom abzuwickeln. Besser wäre es, die dann eigenen Netze selbst zu betreiben bzw. an (auch kommerzielle)
+Nutzer zu verpachten.
+Zur Vermeidung weiterer Verluste für die Allgemeinheit fordern wir den sofortigen Stopp der aktuell laufenden Ausschreibungen.
+
+1.11.3 Stadtwerke als teilweise Einwohnergenossenschaft
+Wir befürworten die Organisation der Stadtwerke Stuttgart als Genossenschaft aller Menschen mit
+Hauptwohnsitz in Stuttgart mit einem Anteil von 50%, die anderen 50% hält die Stadt.
+
+1.11.4 Freifunk
+Die Piraten setzen sich für die öffentliche Förderung von Freifunk-Netzen in Stuttgart ein. Dies
+kann etwa durch die Unterstützung der Softwareentwicklung geschehen, durch Bereitstellung
+von öffentlichen Gebäuden und Objekten wie Straßenlaternen zur Platzierung von Freifunk-Access-Points.
+
+1.12 Umweltschutz und Tierschutz
+1.12.1 Umweltzone
+Wir fordern die Prüfung und Unterstützung alternativer Maßnahmen zur Reduzierung der Feinstaubbelastung in Stuttgart. Wir fordern die Abschaffung der derzeitigen Umweltzonen in Stuttgart.
+
+1.12.2 Erneuerbare Energie für öffentliche Gebäude und Flächen
+Die Städte und Gemeinden sollten beim Ausstieg aus der Atomenergie mit gutem Beispiel vorangehen und kurzfristig die Stromversorgung von öffentlichen Gebäuden und Flächen auf erneuerbare Energien umstellen. Mittel- bis langfristig fordern wir eine möglichst 100%ige Selbstversorgung
+mit Strom. Um dieses Ziel zu erreichen, müssen die Städte und Gemeinden bei Neubau und Sanierung auf die Energieeffizienz achten und zusätzlich in die lokale Stromerzeugung aus erneuerbarer
+Energie einsteigen. Dazu sind insbesondere Solarzellen oder Sonnenkollektoren wo möglich anzubringen, dass Fernwärme- bzw. Nahwärmenetz konsequent zu nutzen und auch für den privaten
+Bereich für Neubauten und Sanierungen wirksame Regeln zu erlassen, um hier endlich deutlich
+weiterzukommen.
+
+1.12.3 Einführung einer Lebensmittelabfallverordnung
+Jeden Tag werden große Mengen frischer Lebensmittel entsorgt. Zur Vermeidung dieses sinnlosen
+Energie- und Arbeitsaufwandes für Produktion, Transport und Entsorgung fordert die Piratenpartei
+Stuttgart die Einrichtung eines kommunalen Systems zur Reduzierung von Lebensmittelabfällen.
+Hierzu soll das Abfallrecht der Stadt Stuttgart so erweitert werden, dass Supermärkte und andere
+Nahversorger Lebensmittelabfälle getrennt vom Restmüll entsorgen müssen. Die durch die Stadt
+erhobenen Gebühren zur Entsorgung von Lebensmitteln sollen hierbei mindestens doppelt so hoch
+sein wie für Restmüll. Das Ordnungsamt soll die Einhaltung der Verordnung kontrollieren.
+
+1.12.4 Abwendung der Klimakatastrophe
+Seit August 2018 ist bekannt, dass es äußerst schwierig werden wird, einen katastrophalen Klimawandel mit einem Temperaturanstieg von 5 bis 6 Kelvin (Grad Celsius) gegenüber dem vorindustriellen Niveau noch abzuwenden, der mindestens die menschliche Zivilisation, aber sehr wahrscheinlich auch die Menschheit selbst vernichten wird.
+Daher fordern wir:
+1. der Zielbeschluss 100% Klimaschutz der Stadt Stuttgart muss vollständig und zeitnah mit verbindlichen Maßnahmen unterlegt werden, auch scheint es erforderlich, ihn weiter zu verschärfen
+hinsichtlich Zeitstrahl und Vollständigkeit
+2. es muss mit Vorbereitungen begonnen werden, aktive Gegenmaßnahmen (Geoengineering)
+gegen den Klimawandel zu ergreifen - was in einer Stadt mit wenig Platz wie Stuttgart besonders
+schwierig werden wird.
+Hier sind eher klassische Maßnahmen (Aufforstung u.ä.) als auch technische Maßnahmen (aktive
+Extraktion von CO2 auf physikalische oder chemische Weise aus der Erdatmosphäre) genauestens
+zu prüfen.
+
+1.13 Versammlungsrecht
+1.13.1 Versammlungsrecht stärken
+Es darf keine willkürlichen und/oder rechtswidrigen Einschränkungen des Versammlungsrechts und
+keine Einkesselung von Demonstranten geben – auch keine Behinderung antifaschistischer Proteste. Verhängte Einschränkungen für die Versammlung müssen ausführlich und frühzeitig nachvollziehbar begründet werden.
+
+1.14 Verbraucherschutz
+1.14.1 Informationssystem für Ergebnisse von Lebensmittelkontrollen
+Das Regierungspräsidium Stuttgart soll die Ergebnisse von durchgeführten Lebensmittelkontrollen
+über ein frei zugängliches Informationssystem zur Verfügung stellen.
+
+1.14.2 Verbraucherinformation vor Ort durch Smiley-System für Restaurants,
+Fleischereien und Bäcker
+Die Ergebnisse von Lebensmittelkontrollen werden anhand unterschiedlicher Smileys zeitnah und
+gut sichtbar an der Eingangstür angebracht, um den Verbraucher zusätzlich zum Informationssystem im Internet direkt vor Ort zu informieren.
+
+1.15 Trennung von Staat und Kirche
+1.15.1 Gebührenfreier Kirchenaustritt
+Jeder Bürger soll unabhängig von seinen finanziellen Verhältnissen die Mitgliedschaft in einer Religionsgemeinschaft selbst bestimmen können. Gebühren erschweren den Austritt oder Wechsel
+und stehen zudem oft in keinem Verhältnis zum Arbeitsaufwand. Daher sollte die Stadt Stuttgart
+für einen Kirchenaustritt keine Gebühren verlangen dürfen. Aus Sicht der Piraten sind entstehende
+Kosten von der betreffenden Kirche zu entrichten, solange Kirchenangelegenheiten öffentlich verwaltet werden. Des Weiteren soll es Kirchen in Zukunft nicht mehr möglich sein, nachträglich den
+Kirchenaustritt anzweifeln und damit eine Beweislastumkehr zu Ungunsten des Bürgers zu erzwingen. Derzeit muss der Bürger durch Vorlage der amtlichen Austrittserklärung beweisen, dass er
+tatsächlich ausgetreten ist. Kann er seinen Austritt zu einem späteren Zeitpunkt nicht nachweisen,
+droht ihm eine immense Kirchensteuernachforderung.
+1.16 Öffentlicher Raum
+1.16.1 Public Viewing in der Innenstadt
+Die Piratenpartei Stuttgart plädiert für ein „Public Viewing“ in der Innenstadt während sportlicher
+Großereignisse wie zum Beispiel Olympia, Fußball-Welt- und -Europameisterschaften.
+
+1.16.2 Kein Alkoholverbot auf öffentlichen Plätzen
+Wir setzen uns für Versammlungsfreiheit und für eine vielfältige und freie Nutzung des öffentlichen
+Raums ein und lehnen daher Regelungen ab, die diese unnötig einschränken. Darunter fallen auch
+Verbote, die den Konsum von alkoholischen Getränken auf öffentlichen Plätzen untersagen, ohne
+dass eine konkrete Gefährdung von ihrem Konsum ausgeht.
+
+1.16.3 Neckarufer
+Aufgrund der industriellen Nutzung des Neckarraums ist der Neckar im Bereich Bad Cannstatt
+nahezu vollständig kanalisiert. Um das Neckarufer als Naherholungsgebiet zu fördern, setzt sich
+die Piratenpartei Stuttgart für weitere Renaturierungsmaßnahmen ein. Als Basis für die Wiederansiedlung von Tier- und Pflanzenarten kann nur eine naturnahe Gestaltung der Uferkante dienen.
+Projekte, die die Stadt und den Fluss zusammenführen (z.B. Theaterschiff und Stadtstrand), sollen unterstützt werden. Wir befürworten die Neckarwelle als Anziehungspunkt für Wassersportler,
+Stuttgarter und Touristen und unterstützen den gleichnamigen Verein soweit nötig dabei.
+
+1.16.4 Videoüberwachung
+Wir richten uns strikt gegen die zunehmende Kameraüberwachung in Stuttgart. Videoüberwachung ist selten klar begründet, oft maßlos überzogen und fast immer nutzlos. Wir wollen eine
+Gesellschaft, in der sich die Menschen frei und unbeobachtet von Kameras bewegen können. Eine
+freie Gesellschaft ist mit ständiger Überwachung nicht zu vereinbaren. Jeder Mensch wird durch
+solche Maßnahmen unter einen Generalverdacht gestellt. Mehr Videoüberwachung schafft nicht
+mehr Sicherheit. Vielmehr könnten bauliche Maßnahmen den öffentlichen Raum überschaubarer
+machen und zusammen mit einer besseren Beleuchtung zu einem Sicherheitsgewinn führen. Alle
+Kamerastandorte im Stadtgebiet müssen offengelegt, dokumentiert und im Anschluss kritisch
+überprüft werden. Wir fordern die Betreiber auf, Standorte und Blickwinkel der Überwachungskameras öffentlich zu dokumentieren und darzulegen, welchen Nutzen die jeweilige Kamera hat. Im
+Anschluss daran sollen diese Überwachungskameras kritisch überprüft werden. Private Kameras,
+die dauerhaften Bereiche des öffentlichen Raumes filmen, sollen durch den Datenschutzbeauftragten
+genehmigungspflichtig werden.
+Wir fordern eine Umkehr der Voraussetzungen für den Betrieb von Kameras, d. h. Bürger sollen sich
+nicht im Nachhinein dagegen wehren müssen, sondern Videoüberwachung soll nur in Ausnahmefällen überhaupt erst genehmigt werden. Zudem fordern wir die deutliche, gut erkennbare und unmissverständliche Kennzeichnung von Geschäften und Gaststätten, die ihre Gäste und Kunden im
+Innenbereich überwachen und ein entschlossenes Vorgehen gegen jede Kamera, die unerlaubt im
+öffentlichen Raum angebracht wird.
+
+1.16.5 Restaurierung Villa Berg
+Wir unterstützen die weitere öffentliche Nutzung der Villa Berg und ihres Parks.
+
+1.16.6 Weitere Privatisierung öffentlicher Räume stoppen
+Die zunehmende Privatisierung städtischer Räume durch Einkaufszentren und Einkaufsstraßen, die
+von privaten Sicherheitsdiensten „sauber“ gehalten werden, sehen wir sehr kritisch. Eine solche
+
+Bewirtschaftung öffentlichen Raums darf nicht dazu führen, dass politische Betätigung (z.B. Infostände und Versammlungen) im öffentlichen Raum unmöglich werden oder Menschen vertrieben
+werden, die das „Einkaufserlebnis“ trüben könnten (z.B. Obdachlose). Wir möchten das Recht Aller am öffentlichen Raum erhalten, denn die Möglichkeit öffentlicher Nutzung öffentlicher Bereiche ist eine wichtige Grundlage für gesellschaftliche Beteiligung in urbanen Gebieten. Die weitere
+Umwandlung öffentlichen Raumes in private Räume möchten wir bremsen. Für quasi-öffentliche
+Räume in privatem Besitz, wie z.B. Einkaufszentren, Flughäfen oder Bahnhöfe, wollen wir einen
+rechtlichen Rahmen schaffen, der dem Charakter dieser Räume als öffentliche Räume gerecht wird.
+Hohe Mauern um Privatgrundstücke (im Stil von gated communities) lehnen wir ab, solche werden
+nicht mehr genehmigt bzw. wo vorhanden zurückgebaut.
+
+1.16.7 Downhill-Strecke für Stuttgart
+Neben der Bestands-Downhill-Strecke (Woodpecker Trail) zwischen Degerloch und S-Süd sollen
+weitere mögliche Strecken geprüft und wenn möglich in Betrieb genommen werden.
+
+1.16.8 Freiräume für Jugendliche
+Sobald Freiflächen zur Planung und Gestaltung vorgesehen sind, sollen betroffene Jugendliche
+auf geeignete Weise beteiligt werden. Als Schnittstelle können hierbei der Jugendrat bzw. die Planungsgruppen dienen.
+
+1.16.9 Skate-Park Öffnungszeiten ausweiten
+Die Piratenpartei Stuttgart lehnt Einschränkungen der Öffnungszeiten von Skate-Parks außerhalb
+der allgemeinen Ruhezeiten ab. Mit den limitierten Öffnungszeiten wie beim Skate-Park am Pragfriedhof, welcher derzeit nur von 15 bis 19 Uhr genutzt werden darf, wird die Sportstätte den Bedürfnissen von Jugendlichen nicht gerecht.
+
+1.16.10 Abschaffung von Sperrzeiten
+Abschaffen von Sperrzeiten Die Piratenpartei Stuttgart möchte die Sperrzeiten in Stuttgart abschaffen. Die aktuellen Sperrzeitenn führen zu keinem Mehrwert an Sicherheit oder Reduzierung
+von Lärm. Wir setzen uns dafür ein, mit den Clubbetreibern in Diskussion zu treten und eine gemeinsame Lösung zu finden.
+
+1.16.11 Autofreien großen Cityring zügig umsetzen
+Das Bürgerbegehren „Stuttgart lauft nai“ wurde vom Gemeinderat mit einer Mehrheit von GRÜNEn, SPD und unserer Fraktion SÖS-LINKE-PIRATEN-Studenden übernommen, allein fehlt es auf
+Verwaltungsebene an Nachdruck, diesen Beschluss umzusetzen. Wo nötig und möglich werden
+wir diese Planung schnellstmöglich vorantreiben, was auch zur Verringerung der Luftschadstoffbelastung beiträgt.
+
+1.16.12 Inklusionskultur
+Im Sinne der Inklusionspolitik der Piraten soll Kultur für alle Menschen gefördert werden. Das umfasst beispielsweise barrierearme Einrichtungen und Veranstaltungsorte, Bibliotheken für Blinde,
+sowie Theater- und Kinoaufführungen für Gehörlose.
+
+1.17 Soziales
+1.17.1 Gerechte Preispolitik in den Bäderbetrieben
+Die Piratenpartei Stuttgart fordert eine gerechtere Preispolitik in den Stuttgarter Bäderbetrieben.
+Ermäßigte Eintrittspreise müssen an die Förderungswürdigkeit wie zum Beispiel an Studierende,
+Schüler oder Bonuscard-Inhaber und nicht wie momentan auch an das Alter gekoppelt sein.
+
+1.17.2 Finanzierung Klinikum Stuttgart
+Die Stadt Stuttgart fordert vom Land Baden-Württemberg die Einhaltung seiner Finanzierungsverpflichtungen gegenüber den öffentlichen städtischen Kliniken ein. Notfalls wird Klage gegen das
+Land Baden-Württemberg erhoben. Die Stadt Stuttgart bezuschusst mindestens das Olga-Hospital mit mindestens 5 Millionen Euro pro Jahr, solange das pauschaliertes Abrechnungsverfahren
+(DRGs) für den Bereich Kinderkrankenhäuser nicht abgeschafft oder ausreichend erhöht worden
+sind - derzeit lassen sich solche Kinderkrankenhäuser nur hoch defizitiär betreiben.
+
+1.17.3 Neubürgermappen
+Zugezogene Neubürger*innen sollen als Willkommensgruß überall in Stuttgart von den jeweilgen
+Bezirksämtern eine Neubürgermappe erhalten. Die Neubürgermappen sollen u.A. Informationen
+zum Stadtbezirk und und seinen Freizeitgestaltungsmöglichkeiten enthalten.
+
+1.17.4 SMS-Notruf
+Nicht für alle Menschen ist es möglich, im Falle eines Notrufs einen Anruf an die Rettungsleitstelle
+abzusetzen. Vor allem für Menschen, deren Hören oder Sprechen eingeschränkt ist, stellt dies eine
+nicht zu akzeptierende Barriere dar. Wir fordern daher, einen SMS-Notruf einzuführen, wie er schon
+in anderen Ländern, wie z.B. Frankreich, möglich ist. Wir setzen uns weiterhin dafür ein, dass Warnmeldungen, beispielsweise in Katastrophenfällen, so weitergegeben werden, dass auch schwerhörige oder gehörlose Menschen erreicht werden.
+
+1.18 Drogenpolitik
+1.18.1 Cannabis Social Club
+Als Antwort auf den gescheiterten Krieg gegen Drogen und die unsachgemäße Prohibition und
+Repression gegen Cannabis-Konsumenten versucht die LHS eine sozial kontrollierte Freigabe von
+Cannabis zu Genußzwecken auf kommunaler Ebene mit dem Modell des Cannabis Social Club umzusetzen. Dies erfolgt in vier Schritten:
+1. aktuell schon in Arbeit in runden Tischen und per Antragsentwurf ist ein Testmodell als Club mit
+einer Begrenzung auf 100 Mitglieder in nicht zu ländlichen Teilen der Stadt Stuttgart, in dem nur die
+Mitglieder vorher angemeldete Mengen von dort angebautem Cannabis vor Ort konsumieren können. Eine wissenschaftliche Evaluation des Modellversuchs zusammen mit von der Stadt Stuttgart
+vorgegebenen strikten Satzungsrahmenregeln (u.a. Mitgliedsalter mindestens 21, Hauptwohnsitz
+Stuttgart) wird dabei durchgeführt. - Ein Verein Cannabis Social Club Stuttgart (CSCS) e.V. ist bereits beim Amtsgericht registriert und steht als Träger zur Verfügung.
+2. gelingt es dafür eine Mehrheit im Gemeinderat zu gewinnen, dann wird der notwendige Antrag
+an das Bundesmedikamentenamt für ein drogenpolitisches Ausnahmemodell gemäß 1. gestellt.
+3. wenn das Bundesamt die Genehmigung erteilt, wird aufgrund dieser und der Regeln von 1. der
+Versuch über mindestens zwei Jahre durchgeführt und die Evaluation erstellt.
+4. bei positiver Evaluation wird das Modell auf auch wirtschaftlich tragfähigere, mehrere Clubs mit
+jeweils maximal 500 Mitgliedern ausgedehnt (mehr als 500 Mitglieder haben sich in Barcelona, wo
+es viele solche Clubs gibt, als problematisch erwiesen), wozu die Satzung der Stadt Stuttgart erneut angepasst werden muss.
+
+1.19 Sport
+1.19.1 Sportförderung
+Die Nachwuchsförderung von Sportarten wird mit 30% der Gesamtsumme bezuschusst, wenn folgende Bedingungen erfüllt sind:
+1. Die Sportart hat in Stuttgart einen Bundesstützpunkt oder einen Landesstützpunkt oder eine
+vergleichbare Einrichtung wie eine Sportakademie
+2. Es gibt einen Mangel an einheimischen Sportlern in den entsprechenden oberen Leistungsklassen, z.B. der ersten Bundesliga, so dass vorwiegend nichtdeutsche Akteure dort engagiert sind.
+3. Ein Trägerverein, Landes- oder Bundesverband, der DOSB oder eine Kombination aus diesen
+fördert die in 1. erwähnte Nachwuchsarbeit im betreffenden Sport.
+4. Die Sportart kann kein dichtes Netz von professioneller Nachwuchsförderung aus eigenen finanziellen Mitteln bestreiten.
+
+2.1 Wir möchten selbstbestimmte, ökologisch, ökonomisch
+und sozial handelnde, starke Kommunen
+Die Piraten fordern selbstbestimmte, autarke Kommunen, die Entscheidungen auf höherer Ebene mitbestimmen. Bisher wird die Kommunalverwaltung fast ausschließlich als ausführendes Organ behandelt. Das heißt einerseits, dass das Land Baden-Württemberg und die Bundesrepublik
+Deutschland der Kommunalverwaltung vorschreiben, wie kommunalpolitische Aufgaben zu erfüllen sind. Andererseits hätte die Verwaltung durchaus Möglichkeiten, bei der kommunalen Selbstverwaltung Akzente zu setzen. Wir fordern, dass die Kommunen ihre Position gegenüber Bund und
+Land stärken. Der Selbstbestimmung der Kommunen soll das Konzept der Nachhaltigkeit zugrunde
+liegen. Das heißt, dass die kommunale Verwaltung unter ökonomischen, ökologischen und sozialen Aspekten entscheiden und handeln soll.
+-	Ökologisch nachhaltig ist eine Gesellschaft, die die natürlichen Lebensgrundlagen nur in dem Maße beansprucht, wie diese sich regenerieren. Sie orientiert sich am Gedanken, keinen Raubbau an der Umwelt zu betreiben.
+-	Ökonomisch nachhaltig ist eine Gesellschaft, die nicht über ihre Verhältnisse lebt. Nur wenn sie dauerhaft betrieben werden kann, ohne auf Kosten nachkommender Generationen zu wirtschaften, gilt eine Gesellschaft als ökonomisch nachhaltig.
+-	Sozial nachhaltig ist eine Gesellschaft, in der soziale Konflikte vermieden werden. Wenn soziale Spannungen entstehen, dürfen diese nicht eskalieren, sondern müssen auf friedlichem Wege gelöst werden.
+
+Um diese Ziele umzusetzen, möchten die Piraten auch die regionalen Wirtschaftskreisläufe unterstützen.
+
+2.2 Wir möchten mehr direkte Demokratie zur Stärkung der
+Teilnahme und Teilhabe der Menschen in Kreis und Kommune
+Die Piraten setzen sich dafür ein, dass sich die Bürger stärker als bisher in die Kommunalpolitik einbringen können.
+Bislang werden die in der Gemeindeordnung vorgesehenen Möglichkeiten der Bürgerbeteiligung
+nicht ausreichend ausgeschöpft. In der Praxis sind Kommunalwahlen die einzige Form der Bürgerbeteiligung. Dabei lässt die Gemeindeordnung dem Bürger durchaus Platz für mehr demokratische
+Teilnahme und Teilhabe.
+
+2.2.1 Bürgerbegehren
+Bei einem Bürgerbegehren wendet sich – je nach Größe der Gemeinde – eine bestimmte Mindestanzahl von Bürgern an den Gemeinderat, um einen Bürgerentscheid zu erzielen. Ein erfolgreicher
+Bürgerentscheid entspricht dann einem Gemeinderatsbeschluss.
+
+Wir möchten, dass die im Landesrecht verankerte Mindestanzahl der benötigten Unterschriften
+erheblich gesenkt wird, um einem Bürgerbegehren eine realistische Erfolgschance zu ermöglichen.
+
+2.2.2 Bürgerantrag
+Damit kann eine – je nach Gemeindegröße unterschiedliche – Mindestanzahl von Bürgern durchsetzen, dass eine bestimmte Angelegenheit zumindest im Gemeinderat diskutiert wird.
+Wir möchten, dass die Bürger einfacher einen Bürgerantrag in den Gemeinderat einbringen können. Deshalb wollen wir auf Landesebene erreichen, dass auch diese Hürde deutlich gesenkt wird.
+
+2.2.3 Landräte
+Das höchste kommunalpolitische Amt, der Landrat, wird bisher vom Kreistag gewählt. Der Kreistag
+besteht meist aus den Bürgermeistern eines Landkreises. Dadurch gibt es keine unabhängige Aufsicht über die Gemeinden. Der „Vetternwirtschaft“ sind damit theoretisch keine Grenzen gesetzt.
+Wir schlagen vor, den Landrat durch die Bürger direkt zu wählen, um das mögliche Bevorzugen
+eines parteinahen Kandidaten einzudämmen.
+
+2.2.4 Einsatz neuer Medien
+Flächendeckendes Internet ermöglicht neue Formen der politischen Teilhabe – zu jeder Zeit und für
+alle. Online-Bürgerbegehren und aufgezeichnete Gemeinderatssitzungen kommen dabei den modernen Lebensgewohnheiten politisch interessierter Bürger entgegen. Diese Möglichkeiten sollen
+von den Kommunalverwaltungen zukünftig genutzt werden.
+
+2.3 Wir setzen uns für Transparenz bei kommunalpolitischen Verfahren und Entscheidungen ein
+Die Piraten bekennen sich zu einer offenen Informationspolitik in der Verwaltung und bei Entscheidungsträgern.
+Lobbyismus, Vetternwirtschaft und intransparente Hinterzimmerpolitik sind akute Probleme auf
+allen Ebenen der Politik und haben weitreichende Folgen in unserer Gesellschaft: Sie schaffen Ungerechtigkeit und führen zu Fehlentscheidungen. Diesen Strukturen kann nur durch offene, ehrliche und damit transparente Politik begegnet werden. Auch die Akzeptanz von Projekten ist höher,
+wenn Kosten, Nutzen und Ablauf nachvollziehbar bleiben.
+Die Piraten setzen sich für zwei Ziele ein, um diese Politik zu erreichen:
+
+2.3.1 Gläsernes Rathaus
+Die kommunale Verwaltung arbeitet im Auftrag des Bürgers. Deshalb muss jeder Bürger die Möglichkeit haben, Dokumente und Akten der öffentlichen Verwaltung einzusehen. Dazu gehören auch
+die Sitzungsprotokolle oder Genehmigungsverfahren.
+Obwohl die Gemeindeordnung das Veröffentlichen dieser Dokumente zulässt, werden Protokolle
+und Genehmigungen nur umständlich und unzureichend von der Stadtverwaltung veröffentlicht.
+Des Weiteren soll berufstätigen Bürgern die Teilhabe an Gemeinderatssitzungenerleichtert werden, zum Beispiel durch Livestreams nach dem Vorbild der Stadt Konstanz. Um das Gläserne Rathaus auf Dauer zu gewährleisten, fordern wir Informationsfreiheits-Satzungen für alle Kommunen.
+
+2.3.2 Kommunale Informationsfreiheits-Satzungen
+Was sich kompliziert anhört, wird in anderen Städten – beispielsweise in Hamburg – bereits erfolgreich vorgelebt. Zweck dieser Satzungen ist es, den freien Zugang zu den vorhandenen Informationen der Kommunen zu gewährleisten. Die Satzung legt die grundsätzlichen Voraussetzungen fest,
+wie derartige Informationen zugänglich gemacht werden sollen. Beispiele für solche Informationen
+sind:
+-	Einsicht in Angebots- und Rechnungsunterlagen
+
+-	Einsicht in städtische Verträge
+
+-	Einsicht in eingeholte Gutachten und Stellungnahmen Dritter
+
+Informationsfreiheit gibt jedermann das Recht auf uneingeschränkten Zugang zu den Informationen der Gemeinde: Der Bürger muss nicht nachweisen, dass er an der Akteneinsicht ein so genanntes „berechtigtes Interesse“ hat. Stattdessen muss der Antrag auf Akteneinsicht gar nicht
+begründet werden.
+Damit wollen wir Piraten die demokratischen Mitwirkungsmöglichkeiten in unseren Gemeinden
+entscheidend stärken, Korruption verhindern und dem Missbrauch öffentlicher Gelder vorbeugen.
+
+2.4 Wir wollen eine Verkehrsinfrastruktur, die alle Verkehrsarten gleichermaßen berücksichtigt
+Verkehrsplanung muss alle Verkehrsteilnehmer angemessen berücksichtigen. Dazu zählen Bahn,
+Stadtbahn, Bus, LKW, PKW, Fahrrad, Fußgänger und Anwohner. Das frühzeitige Einbeziehen der
+Betroffenen soll Probleme aufzeigen, um rechtzeitig alternative Lösungen zu finden.
+Deshalb setzen wir uns dafür ein, dass sich die für die Verkehrsplanung Verantwortlichen gemeinsam mit den verschiedenen Initiativen und Verbänden auf regionalen Verkehrskonventen um die
+jeweils beste Lösung bemühen.
+Die jeweils beste Lösung sehen die Piraten insbesondere unter den Gesichtspunkten
+-	der Wahlmöglichkeit zwischen den Verkehrsmitteln,
+
+-	der optimalen Erreichbarkeit,
+
+-	der Sicherung der Standortqualität,
+
+-	der ökologischen Verträglichkeit,
+
+-	der Wirtschaftlichkeit und
+
+-	der Verkehrssicherheit.
+
+Modernen Verkehrskonzepten wie dem fahrscheinlosen ÖPNV oder Shared Spaces stehen die Piraten besonders aufgeschlossen gegenüber.
+
+2.5 Wir setzen uns für eine Stadtentwicklung mit Bürgerbeteiligung in allen Phasen des politischen Prozesses ein
+Die Piraten sehen Bürgerbeteiligung nicht nur im Kontext direkter Demokratie. Insbesondere innerhalb der Kommunalpolitik ist es möglich, fernab von Wahlen die Bürger an Entscheidungen zu
+beteiligen.
+Ein erster Schritt dazu ist, die Menschen wieder verstärkt für regionale Belange politisch zu motivieren. Die Piraten begrüßen daher die Unterstützung von Bürgerinitiativen und Interessengemeinschaften durch die Kommunalverwaltungen.
+Die Piraten setzen sich jedoch für weiter reichende Beteiligungsformen ein, zum Beispiel über ein
+Bürgerbeteiligungsverfahren. Bei einem Bürgerbeteiligungsverfahren werden Bürger umfassend
+in Entscheidungen des Gemeinderats miteinbezogen, wenn sie unmittelbar von der Entscheidung
+betroffen sind.
+Gerade bei Großvorhaben müssen die Bürger bereits in die frühesten Planungsstadien intensiv eingebunden werden.
+
+2.6 Wir streben einen Bürgerhaushalt für alle Kommunen
+an
+Die Piraten möchten einen Bürgerhaushalt nach dem Vorbild zahlreicher Gemeinden einführen.
+Bei einem Bürgerhaushalt können die Bürger über einen Teil des Gemeindehaushalts bestimmen
+und mitentscheiden, zum Beispiel über:
+-	Finanzierung von Verkehrsprojekten
+-	Sportförderung
+-	Natur- und Landschaftspflege
+-	Einsparvorschläge
+
+Dafür gibt es in den verschiedenen Gemeinden unterschiedliche Ansatzpunkte und Verfahren. Der
+in Stuttgart 2011 eingeführte Bürgerhaushalt erfuhr eine große positive Resonanz. Auch die Stadt
+Köln bezeichnet ihren Bürgerhaushalt als einen echten Qualitätsgewinn.
+Ein Bürgerhaushalt stärkt die direkte Demokratie, fördert Transparenz und die Akzeptanz politischer Entscheidungen durch die Bürger, weil sie daran unmittelbar beteiligt sind. Wir setzen uns
+zudem für einen Bürgerhaushalt ein, bei dem die Bürger nicht nur vorschlagen und beraten dürfen,
+sondern weitgehend frei und unabhängig vom Gemeinderat über den zugeteilten Betrag entscheiden können.
+
+2.7 Die in der Gemeindeordnung vorgesehene jährliche
+Bürgerversammlung muss für alle Kommunen verpflichtend werden.
+Die Piraten setzen sich dafür ein, dass Bürgerversammlungen künftig zur Regel werden. Bei einer
+Bürgerversammlung werden die Bürger bei wichtigen Angelegenheiten innerhalb der Gemeinde
+gehört. Wichtige Themen sollen im Rahmen der Versammlung erörtert und diskutiert werden. §
+20a der Gemeindeordnung in Baden-Württemberg sieht vor, dass dies mindestens einmal jährlich
+der Fall sein soll.
+Die Piraten sehen die Bürgerversammlung als einen wichtigen Aspekt, um die Akzeptanz politischer Entscheidungen durch die Bewohner zu erhöhen und die Menschen wieder verstärkt für regionale Politik zu motivieren.
+
+2.8 Wir setzen uns für das Recht der Bürger ein, ihr Leben
+möglichst selbstbestimmt zu führen.
+Die Piraten machen sich dafür stark, dass jeder Mensch sein Leben frei und eigenständig bestimmen kann. Dazu gehört, dass auch in Zukunft Gesunde für Kranke, Arbeitende für Arbeitslose, Jung
+für Alt und umgekehrt eintreten. Die Voraussetzungen dafür sollen stärker gefördert werden als
+bisher. Um ein selbstbestimmtes Leben führen zu können, müssen die Bürger Zugang zu Wohnraum und Mobilität haben sowie ihre Arbeit uneingeschränkt ausüben können. Das heißt für uns
+zum Beispiel:
+-	Zugang zu altersgerechtem und bezahlbarem Wohnraum, im Rahmen des sozialen Wohnungsbaus
+
+-	Zugang zu öffentlichem Nahverkehr, um Schülern, Erwachsenen und Senioren die gesellschaftliche Teilnahme zu ermöglichen
+
+-	Angebot an Betreuungseinrichtungen – sowohl für berufstätige Eltern, die ihre Kinder in Tagesstätten geben möchten, als auch für Berufstätige mit pflegebedürftigen Angehörigen
+
+Dieses Maß an Unterstützung soll insbesondere für Jugendliche und sozial Schwache gewährleistet
+werden. Sie benötigen Zugang zu Bildung und Ansprechpartnern, um auf ein selbstbestimmtes
+Leben vorbereitet zu werden. Wir wollen Menschen dabei helfen, sich frei zu entfalten, ihr Leben
+selbst zu gestalten und persönliche Verantwortung zu übernehmen. Deswegen setzen wir uns für
+den Ausbau der gemeinnützigen Bildungs- und Beratungsträger ein. Denn staatliche Angebote
+allein können den vielfältigen Bedürfnissen der Bürger nicht Rechnung tragen. Für uns ist das Konzept des selbstbestimmten Lebens mehr als nur eine Floskel. Die Teilnahme aller Menschen wirkt
+sich positiv auf die Gesellschaft aus und verringert Kosten. Wenn beispielsweise pflegebedürftige
+Menschen in ihrer eigenen Wohnung betreut werden, können sie ihr Leben weitgehend selbstbestimmt führen. Gleichzeitig verursacht die Betreuung auch weniger Pflegekosten. Zudem kann in
+diesen Fällen auf den Europäischen Sozialfonds (ESF) und den Europäischen Fonds für regionale
+Entwicklung (EFRE) zurückgegriffen werden.
+Wir fordern, dass dieses selbstbestimmte Leben auch für Menschen mit Behinderungen alltäglich
+wird. Dazu gehört, dass neben den rein finanziellen Aspekten auch weitere Voraussetzungen erfüllt werden: bedarfsgerechtes Wohnen, soziale Akzeptanz und barrierefreier Zugang zu allen Bereichen des öffentlichen Lebens. Besonders der Zugang zu öffentlichen Veranstaltungen, Bildungseinrichtungen und Informationsangeboten muss barrierefrei möglich sein.
+
+2.9 Wir wollen kleine und mittlere Unternehmen stärken
+und regionale Wirtschaftskreisläufe fördern.
+Die Piraten setzen auf die regionale Wirtschaftskraft. Regionales Wirtschaften leistet einen wichtigen Beitrag zur Nachhaltigkeit im ökologischen, sozialen und volkswirtschaftlichen Sinne. Den
+Möglichkeiten, regionale Wirtschaftskreisläufe durch die kommunale Politik zu fördern, sind durch
+das EU-Recht enge Grenzen gesetzt. Dennoch gibt es genügend Spielraum für die Kommunen,
+aktiv zu werden und die positiven Effekte regionalen Wirtschaftens zu unterstützen. Zum Beispiel
+durch die aktive Förderung von Gründerzentren und dem Öffnen städtischer Räumlichkeiten für
+Sport- und andere Vereine.
+Außerdem treten die Piraten bundesweit für die Abschaffung der Kammerpflicht ein. Durch eine
+freiwillige Kammermitgliedschaft werden insbesondere kleine Unternehmen weniger belastet.
+Die Piraten geben zu bedenken, dass das Fördern regionaler Wirtschaftskreisläufe nicht auf Kosten
+der Allgemeinheit erfolgen darf, zum Beispiel durch unverhältnismäßige Steuererleichterungen
+und Subventionen. Stattdessen müssen Kosten und Nutzen in einem angemessenen Verhältnis
+stehen.
+
+2.10 Wir möchten, dass Kunst und Kultur allgemein zugänglich sind.
+Kunst und Kultur sind nach unserem Verständnis ein freier Raum, in dem alles denkbar ist und ausprobiert werden kann. In diesen Raum möchte die Piratenpartei nicht eingreifen, aber zusätzliche
+Orte und Netzwerke schaffen, in denen sich Kultur entfalten kann. Die Piraten machen sich dafür
+stark, Künstlern und Veranstaltern auch jenseits des Mainstreams Möglichkeiten zu bieten, um die
+kulturelle Vielfalt zu pflegen und zu fördern.
+Zugang zu Kunst und Kultur muss allen offenstehen – unabhängig von ihrer finanziellen Leistungsfähigkeit. Deshalb soll der Zugang zu bestehenden Kultureinrichtungen verbessert werden.
+
+3. Positionspapiere und Resolutionen
+3.1 Durchführung von Bürgerbefragungen.
+3.1.1 Einleitung
+Eine neue Zeit erfordert zeitgemäße Konzepte, um den Bürgern wirksame und attraktive Möglichkeiten zur Mitbestimmung zu geben. Die Durchführung regelmäßiger Bürgerbefragungen im Rahmen eines öffentlichen Prozesses belebt die öffentliche Diskussion über wichtige politische Themen, schafft öffentliches Bewusstsein und bietet der Bürgerschaft eine komfortable Möglichkeit,
+die Stadtpolitik abseits von Wahlen und parteipolitischen Befindlichkeiten aktiv mitzugestalten.
+
+3.1.2 Rahmenbedingungen
+Wir setzen uns dafür ein, dass mittels geeigneter Beschlüsse und Verordnungen die rechtlichen
+Rahmenbedingungen geschaffen und die Bürgerbefragungen in einem durchgehend öffentlichen
+Prozess erarbeitet werden. Hierfür wird ein eigener Ausschuss im Gemeinderat gebildet. Zu den
+Aufgaben des Ausschusses zählt insbesondere auch die möglichst umfangreiche Miteinbeziehung
+der Öffentlichkeit in die Vorbereitung der Bürgerbefragung. Der Ausschuss kümmert sich außerdem um die Erarbeitung von Anträgen als Folge konkreter Befragungsergebnisse.
+
+3.1.4 Vorbereitung
+Es wird ein exakter Zeitplan für jede Phase und ihre einzelnen Abschnitte durch den Gemeinderat
+beschlossen und veröffentlicht.
+Die Vorbereitungsphase beginnt spätestens 12 Monate vor der Durchführung der Befragung. Es
+werden Vorschläge für die Fragen gesammelt und aufbereitet. Die ordentliche Einreichung von Vorschlägen erfordert entweder die Unterstützung von sechs Mitgliedern des Gemeinderates oder die
+Unterstützungsunterschrift von 200 Bürgern. Die Fragen müssen hierbei Belange betreffen, über
+die der Gemeinderat der Stadt Stuttgart beschließt. Die Fragen müssen so formuliert sein, dass sie
+konkret über zwei bis vier Auswahlantworten durch Ankreuzen beantwortet werden können.
+Ordentlich eingereichte Vorschläge für Fragen werden daraufhin auf- und vorbereitet. Der Gemeinderat beschließt im Anschluss die Liste der Fragen. Werden ordentlich eingereichte Vorschläge durch den Gemeinderat abgelehnt, so ist die Ablehnung einschließlich der Begründung zu veröffentlichen und dem Antragsteller des Vorschlags muss eine angemessene Zeit zur Stellungnahme
+und eventuell zur erforderlichen Nachbesserung gewährt werden.
+Ist die Zahl der eingereichten Fragen zu umfangreich, um im Rahmen einer einzelnen Bürgerbefragung sinnvoll berücksichtigt zu werden, so kann der Gemeinderat eine Auswahl treffen. In diesem
+Fall ist zu berücksichtigen, wie zeitkritisch eine Frage ist. Die Zahl der Unterstützungsunterschriften
+bzw. Unterstützer aus dem Gemeinderat ist ebenfalls zu berücksichtigen.
+Der fertige Fragenkatalog wird durch den Gemeinderat beschlossen und veröffentlicht. Die Stadt
+Stuttgart bewirbt die Bürgerbefragung und unterstützt einen öffentlichen Diskurs über die einzelnen Themen im Rahmen ihrer Möglichkeiten.
+
+3.1.5 Befragung
+Die Befragung richtet sich an alle Bürger mit Stimmrecht zur Kommunalwahl. Ein geeignetes Verfahren für eine Widerspruchsstelle zum Schutz des Befragungsgeheimnisses wird eingerichtet. Alle
+Wahl- bzw. Befragungsberechtigten erhalten den Katalog mit den Fragen per Post einschließlich
+eines Antwortumschlags. Anstelle der Rücksendung der Fragen auf dem Postweg kann stattdessen
+eine Beantwortung im Internet erfolgen. Der Brief enthält die hierfür erforderlichen Informationen
+(URL, Code, etc.). Der Fragenkatalog im Internet darf sich nicht vom Fragenkatalog im Brief unterscheiden.
+
+3.1.6 Auswertung
+Nach Auszählung der Bürgerbefragung werden die Ergebnisse veröffentlicht. Der zuständige Ausschuss erarbeitet Anträge an den Gemeinderat, die sich mit den Ergebnissen der Bürgerbefragung
+befassen und legt diese dem Gemeinderat zum Beschluss vor.
+
+3.1.7 Bericht
+Spätestens sechs Monate nach Verkündung des Befragungsergebnisses veröffentlicht der Gemeinderat seinen Bericht über die Durchführung der Bürgerbefragung. Die Entscheidungen sind jeweils
+angemessen zu begründen.
+
+3.1.8 Kosten und Nutzen
+Unser Verfahren ist einfach, kostengünstig und kann bestehende Verwaltungsstrukturen der Stadt
+Stuttgart sinnvoll nutzen. Natürlich verursachen die Bürgerbefragungen auch zusätzliche Kosten.
+Eine gut durchgeführte Bürgerbefragung ist jedoch in jeder Hinsicht ihre Kosten wert. So befasst
+sich der Gemeinderat aufgrund der Befragung mit Interessen der Bürgerschaft, die anderenfalls
+keine Aufmerksamkeit finden würden.
+Darüber hinaus kann eine frühzeitige Befragung der Bürgerschaft über umstrittene Themen Eskalationen und dadurch verursachte Kosten meist verhindern. Wir sind davon überzeugt, dass eine
+wirksame Beteiligung der Bürgerschaft an wichtigen Entscheidungen auf lange Sicht zu besseren
+politischen Ergebnissen führt.
+
+Beschlossen durch die 2. Mitgliederversammlung am 9. September 2012.
+
+3.2 Jobcenter - Einteilung nach Berufsgruppen.
+Fachliches Know-How der Mitarbeiter ist ein Grundpfeiler einer qualifizierten Beratung. Die Jobcenter sollen nach Sicherstellung dieser Kompetenz die Beratung der Kunden nach Einteilung in
+Berufsgruppen und nicht nach Alphabet durchführen. Die Qualität der Beratung und die Erfolgsquote bei der Vermittlung werden durch diese Maßnahme deutlich verbessert.
+
+Beschlossen durch die 2. Mitgliederversammlung am 9. September 2012.
+
+3.3 Ein-Euro-Jobs - keine Konkurrenz zum ersten Arbeitsmarkt.
+Die durch die Stadt und ihren Eigenbetrieben angebotenen Ein-Euro-Jobs sollen, wie gesetzlich
+vorgeschrieben, nicht in Konkurrenz zum ersten Arbeitsmarkt stehen, sondern als Heranführung
+an selbigen dienen.
+
+Beschlossen durch die 2. Mitgliederversammlung am 9. September 2012.
+
+3.4 Förderung der Cross-Cluster-Politik und Entstehung
+virtueller Cluster.
+Cluster sind Netzwerke von eng zusammenarbeitenden Unternehmen - Produzenten, Zulieferern,
+Forschungseinrichtungen, Dienstleistern, Handwerkern, etc. Wir unterstützen die Cross-Cluster-Politik und Entstehung virtueller Cluster. In der Region Stuttgart bestehen bereits zahlreiche
+Cluster. Cross-Cluster-Politik vernetzt unterschiedliche Cluster miteinander. Eine verbesserte Zusammenarbeit (Forschung, Entwicklung und Produktion) an den Schnittstellen bewirkt Innovationen in neuen zukunftsorientierten Branchen. Der Wandel zu einer Dienstleistungsgesellschaft mit
+dezentralen Strukturen lässt virtuellen Clustern zukünftig eine größere Bedeutung zukommen.
+
+Beschlossen durch die 2. Mitgliederversammlung am 9. September 2012.
+
+3.5 Stuttgart 21 muss endlich transparent werden.
+Durch den Volksentscheid am 27. November 2011 wurde der Ausstieg des Landes Baden-Württemberg aus der Finanzierung von Stuttgart 21 abgelehnt. Die Bevölkerung in wichtige Entscheidungen aktiv miteinzubeziehen bedeutet auch, sie ausreichend und angemessen zu informieren. Dies
+ist aus Sicht der Piratenpartei Stuttgart bezüglich der möglichen Leistungsfähigkeit und der Kosten
+bis heute nicht geschehen.
+Wir vermissen immer noch eine wirklich transparente Informationspolitik seitens der grün-roten
+und der folgenden grün-schwarzen Landesregierung. Die damals von den Befürwortern noch vehement bestrittene Kostenexplosion auf mindestens 10 Milliarden Euro (Landesrechnungshof BW,
+Verkehrsbüro Vieregg+Rössler) ist den heute eingeräumten Mindestkosten von mittlerweile 8,2
+Milliarden Euro so gut wie Realität. Außerdem hat dieses Milliardengrab fatale Folgen für die ohnehin bestehenden Finanzierungsengpässe der DBAG.
+Wir begrüßen es ausdrücklich, dass die Bürger von ihren Grundrechten aktiv Gebrauch machen
+und verurteilen deren versuchte Kriminalisierung (Causa Reicherter). Die durch das Innenministerium beauftragte, in Form des „Rahmenbefehls“ bekannt gewordene Bespitzelung von Bürgern
+durch den Verfassungsschutz ist einfach nicht hinnehmbar.
+
+Beschlossen durch die 2. Mitgliederversammlung am 9. September 2012.
+
+3.6 Maßnahmen zur Mietpreissenkung und Leerstandsbekämpfung
+Stuttgart braucht mehr bezahlbaren Wohnraum für alle Bevölkerungsgruppen. Hierzu muss die
+Stadt langfristig durch den umfangreichen Ausbau des sozialen Wohnbaus und Reform der städtischen Wohnungsbaugesellschaft (SWSG) zu einem bedeutenden Faktor am Wohnungsmarkt werden. Dies erfordert den Ausbau des Wohnungsbestandes auf ein Niveau, dass weit über die aktuellen Pläne hinausgeht. Darüber hinaus ist langfristig eine Überarbeitung der Vergabekriterien
+erforderlich. Das derzeitige Konzept der Sozialmietwohnungen und Mietwohnungen für mittlere
+Einkommensbezieher ist starr und muss überarbeitet werden, beispielsweise nach dem Vorbild der
+Vergabekriterien von Wiener Wohnen.
+Viele Menschen nutzen Eigentumswohnungen als Veranlagungsmöglichkeit, vermieten diese aber
+aufgrund des damit verbundenen rechtlichen und bürokratischen Aufwandes oder aus Sorge vor
+unangenehmen Mietern nicht. Zur Reduktion des Wohnungsleerstandes fordern wir daher die Einrichtung einer städtischen Gesellschaft als Angebot für Privateigentümer. Die Wohnungsbesitzer
+können hierbei ihren Wohnraum nach genau festgelegten Kriterien an die Gesellschaft vermieten,
+die sich von da an um die Vermittlung und Vermietung der Wohnung kümmert und somit Risiko
+und Aufwand für den Eigentümer reduzieren. Darüber hinaus fordern wir, dass die Stadt von ihrem
+Recht auf Einhebung einer Abgabe auf leerstehenden Wohnraum Gebrauch macht.
+
+Beschlossen durch die 6. Mitgliederversammlung am 22. März 2014.
+
+4. Anlagen
+Muster-Informationsfreiheitssatzung Stadt Stuttgart
+Informationsfreiheitssatzung der Stadt Stuttgart – Entwurf der Piratenpartei
+Version vom 12. Januar 2014
+Entwurf einer Informationsfreiheits- und Transparenzsatzung für die Landeshauptstadt Stuttgart
+der Piratenpartei Stuttgart zur Regelung des Zugangs zu Informationen der Stadt Stuttgart und ihrer Verwaltungs- und Regelungskompetenz aus Sicht der Bürgerschaft: Informationsfreiheits- und
+Transparenzsatzung Stuttgart (IfTS S).
+
+A. Ziel der Satzung
+Die Satzung soll das Verwaltungshandeln der Landeshauptstadt Stuttgart durch Vorgaben für Informationsfreiheit für alle Menschen transparenter gestalten. Beteiligungsrechte werden dadurch
+gestärkt.
+
+B. Lösungsweg
+Durch die Verabschiedung der Stuttgarter Informationsfreiheits- und Transparenzsatzung im Stuttgarter Gemeinderat soll der allgemeine und bedingungslose Zugang zu bestimmten amtlichen Informationen geschaffen werden unter verfassungsgemäßer Berücksichtigung des Daten- und Geheimnisschutzes. Die Regelungen des Informationsfreiheitsgesetzes des Bundes und eines evtl.
+entsprechenden Gesetzes des Landes Baden-Württemberg sowie das Subsidiaritätsprinzip sind zu
+beachten.
+
+C. Alternativen
+Verabschiedung eines weitreichenden und bürgerfreundlichen Informationsfreiheits- und/oder
+Transparenzgesetzes durch das Land Baden-Württemberg.
+
+D. Finanzielle Auswirkungen auf den städtischen Haushalt
+Der anfänglich höhere Vollzugsaufwand durch zusätzliche Personal- und Sachkosten wird erfahrungsgemäß in späteren Jahren Kostenersparnisse im Bereich der Rechtspflege und der Justiz bringen. Ein Teil der Zusatzkosten kann durch Gebührenerhebung abgedeckt werden. Zusätzliche Personalkosten bei dem Beauftragten für Informationsfreiheit liegen ungefähr in der Größenordnung
+von einer halben Stelle. Dies muss im Stuttgarter Haushaltsaufstellungsverfahren berücksichtigt
+werden.
+
+E. Kosten für Bürger
+Zusätzliche öffentliche Informationsdienstleistungen können in sozial verträglicher Weise für Informationssuchende Zusatzkosten in Form von Gebühren bedeuten. Diese geringfügigen finanziellen
+Belastungen haben jedoch für die Lebenshaltung und die Wirtschaft in Stuttgart keine negativen
+Auswirkungen. Der Stuttgarter Gemeinderat möge deshalb beschließen, dem nachstehenden Satzungsentwurf seine Zustimmung zu erteilen:
