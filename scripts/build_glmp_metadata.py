@@ -10,6 +10,9 @@ main = pd.read_csv(META / "manifestos.csv", sep=";")
 other = pd.read_csv(DATA / "additional_program_files.csv", sep=";")
 local = pd.read_csv(ROOT / "metadata" / "source" / "local_cities.csv", sep=";")
 
+# The municipality AGS reference follows the 31 December 2024 municipality reference state.
+# Historical AGS values are intentionally not reconstructed in the current release.
+
 # Rebuild the consolidated researcher-facing table from the packaged metadata.
 # The document-level tables remain the canonical normalized representation.
 uses = pd.read_csv(DATA / "document_uses.csv", sep=";")
