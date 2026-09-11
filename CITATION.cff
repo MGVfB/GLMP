@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "German Local Manifesto Project (GLMP)"
+type: dataset
+message: "Please add the final authors, version, DOI and licence before public release."
+authors:
+  - family-names: "Gross"
+    given-names: "Martin"
